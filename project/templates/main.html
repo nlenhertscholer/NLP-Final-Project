@@ -1,0 +1,43 @@
+<!--
+main.html
+by Nesta Lenhert-Scholer
+
+Main page to display web data
+-->
+
+<!doctype html>
+<title>Generate Text</title>
+<head>
+  <!-- CSS only -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+<style>
+div {
+  padding: 20px
+}
+</style>
+</head>
+
+<div>
+  <h1>Generate Text</h1>
+
+  <form action="/" method="post">
+    <!-- Type of Model Choice -->
+    <input type="radio" id="wine" name="model_type" value="wine">
+    <label for="wine">Wine</label>
+    <input type="radio" id="joke" name="model_type" value="joke">
+    <label for="joke">Joke</label><br>
+
+    <!-- Generate a history of models -->
+    <input type="checkbox" id="history" name="history">
+    <label for="history">Generate Model History</label><br>
+
+    <!-- Seed text to generate text from -->
+    <label for="seed-text">Seed Text:</label><br>
+    <input type="text" id="seed-text" name="seed-text"><br><br>
+
+    <input type="submit" value="Submit">
+  </form>
+  <br><br>
+
+  {{ text }}
+</div>

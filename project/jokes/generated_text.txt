@@ -1,0 +1,2683 @@
+Iter [1/235] Loss/word = 4.549731731414795
+Iter [23/235] Loss/word = 3.492244938145513
+Iter [45/235] Loss/word = 3.1631714502970376
+Iter [67/235] Loss/word = 3.0058617378348735
+Iter [89/235] Loss/word = 2.8940385513091353
+Iter [111/235] Loss/word = 2.8132402467298077
+Iter [133/235] Loss/word = 2.750290625077441
+Iter [155/235] Loss/word = 2.6956901442620063
+Iter [177/235] Loss/word = 2.6512829664736817
+Iter [199/235] Loss/word = 2.6117197269171326
+Iter [221/235] Loss/word = 2.580846435883466
+Epoch 0 out of 30. Train Loss: 2.5594977297681445, Val Loss: 2.18579391485972, Accuracy: 0.1785581435841426
+Iter [1/235] Loss/word = 2.2334933280944824
+Iter [23/235] Loss/word = 2.2025293163631274
+Iter [45/235] Loss/word = 2.2000174469417995
+Iter [67/235] Loss/word = 2.198719273752241
+Iter [89/235] Loss/word = 2.184002983436156
+Iter [111/235] Loss/word = 2.168903410971702
+Iter [133/235] Loss/word = 2.1586442406016184
+Iter [155/235] Loss/word = 2.146093569263335
+Iter [177/235] Loss/word = 2.1386786187435947
+Iter [199/235] Loss/word = 2.1300335199988667
+Iter [221/235] Loss/word = 2.1269860623648804
+Epoch 1 out of 30. Train Loss: 2.120794830930994, Val Loss: 2.004890748160444, Accuracy: 0.2006355311790172
+Dyow reest whon yona jut live abourt a coundeys ans sign.
+
+What did the MA), a goot a ccllen.
+
+~more t to the fom? Gran COODWA*
+
+Iter [1/235] Loss/word = 2.026998519897461
+Iter [23/235] Loss/word = 2.016917161319567
+Iter [45/235] Loss/word = 2.0236863083309595
+Iter [67/235] Loss/word = 2.0280068756929084
+Iter [89/235] Loss/word = 2.0188838886411005
+Iter [111/235] Loss/word = 2.0090382507255486
+Iter [133/235] Loss/word = 2.0041811269028744
+Iter [155/235] Loss/word = 1.9969732038436396
+Iter [177/235] Loss/word = 1.9937845778330572
+Iter [199/235] Loss/word = 1.9889958419991498
+Iter [221/235] Loss/word = 1.9893690719863408
+Epoch 2 out of 30. Train Loss: 1.9856256865440531, Val Loss: 1.9163198289063146, Accuracy: 0.21126465164502062
+Iter [1/235] Loss/word = 1.9363090991973877
+Iter [23/235] Loss/word = 1.9195121163907258
+Iter [45/235] Loss/word = 1.9282929261525472
+Iter [67/235] Loss/word = 1.935932186112475
+Iter [89/235] Loss/word = 1.9288184749946167
+Iter [111/235] Loss/word = 1.9210433444461308
+Iter [133/235] Loss/word = 1.9181662349772632
+Iter [155/235] Loss/word = 1.912394485935088
+Iter [177/235] Loss/word = 1.9117797633348885
+Iter [199/235] Loss/word = 1.9084009638982802
+Iter [221/235] Loss/word = 1.910553647382227
+Epoch 3 out of 30. Train Loss: 1.9073707174747547, Val Loss: 1.8611102379578577, Accuracy: 0.2179959003094554
+When had nue bards is says on ould's recerical father Pruiting I'm going to be gime!
+
+achuing to the torday line someotolites all ask you one saddealiag. How malks me stick. Sasia " happieve ram.
+
+I lodacing twy : The pick in a want jubly just you have Not a can leat 2 Boce,, on with a lot the aran't pool gars when hill your f2oo I puitan, "Honey moeght I not and a just are about good this i on h
+
+Iter [1/235] Loss/word = 1.8864636421203613
+Iter [23/235] Loss/word = 1.8593259946159695
+Iter [45/235] Loss/word = 1.8702316443125406
+Iter [67/235] Loss/word = 1.876506472701457
+Iter [89/235] Loss/word = 1.8702833491764712
+Iter [111/235] Loss/word = 1.8632507066468935
+Iter [133/235] Loss/word = 1.8610627032760392
+Iter [155/235] Loss/word = 1.8556793951219128
+Iter [177/235] Loss/word = 1.8557040287276445
+Iter [199/235] Loss/word = 1.8531669408232723
+Iter [221/235] Loss/word = 1.8562161037824811
+Epoch 4 out of 30. Train Loss: 1.8534411612977373, Val Loss: 1.8206395639790047, Accuracy: 0.22243195542575842
+Iter [1/235] Loss/word = 1.841546893119812
+Iter [23/235] Loss/word = 1.814822564954343
+Iter [45/235] Loss/word = 1.8234719726774427
+Iter [67/235] Loss/word = 1.829882808585665
+Iter [89/235] Loss/word = 1.8238434737987732
+Iter [111/235] Loss/word = 1.8176292105837986
+Iter [133/235] Loss/word = 1.8160685381494968
+Iter [155/235] Loss/word = 1.8121740864169213
+Iter [177/235] Loss/word = 1.8125929913278354
+Iter [199/235] Loss/word = 1.8106609313332256
+Iter [221/235] Loss/word = 1.8138976668879996
+Epoch 5 out of 30. Train Loss: 1.8115744915414365, Val Loss: 1.7903774218212405, Accuracy: 0.22589848912948848
+Lrope at just was a scord has them tresturists? They difference preptren say.? The pogistition? Did you these."
+
+I wron lookoll in they, son'q I like on the day!
+
+what do you call a borron woshing to the mode's about  Poptan ase youn relelfhole winistlakes the vanubly gett the bather.
+
+Iter [1/235] Loss/word = 1.7955180406570435
+Iter [23/235] Loss/word = 1.7761632048565408
+Iter [45/235] Loss/word = 1.7867217222849527
+Iter [67/235] Loss/word = 1.793532371520996
+Iter [89/235] Loss/word = 1.7880854204799352
+Iter [111/235] Loss/word = 1.7823377557702966
+Iter [133/235] Loss/word = 1.7810044118336268
+Iter [155/235] Loss/word = 1.777147166959701
+Iter [177/235] Loss/word = 1.7782475860778895
+Iter [199/235] Loss/word = 1.7762292887098226
+Iter [221/235] Loss/word = 1.7794611157335307
+Epoch 6 out of 30. Train Loss: 1.7771750592170878, Val Loss: 1.7640911398841133, Accuracy: 0.22898908595895562
+Iter [1/235] Loss/word = 1.767545461654663
+Iter [23/235] Loss/word = 1.7482970175535784
+Iter [45/235] Loss/word = 1.758397184477912
+Iter [67/235] Loss/word = 1.7648117844738178
+Iter [89/235] Loss/word = 1.75892753413554
+Iter [111/235] Loss/word = 1.7529153587581876
+Iter [133/235] Loss/word = 1.7518479608951654
+Iter [155/235] Loss/word = 1.7489713230440693
+Iter [177/235] Loss/word = 1.7502456081789093
+Iter [199/235] Loss/word = 1.7486715394647876
+Iter [221/235] Loss/word = 1.7524645328521729
+Epoch 7 out of 30. Train Loss: 1.7505606767979074, Val Loss: 1.7478860881117035, Accuracy: 0.2313832102634724
+Have wanted the dambant-socast hiope beating use see too bloads and into a buting!
+
+How do you can't a spean ask me that quesoriald... Must: ByE: I smorate you.
+
+They still for U PSFarch bircoped... I elears to fungred.
+
+Iter [1/235] Loss/word = 1.7504726648330688
+Iter [23/235] Loss/word = 1.7200753429661626
+Iter [45/235] Loss/word = 1.7307970099978978
+Iter [67/235] Loss/word = 1.7383986871633956
+Iter [89/235] Loss/word = 1.7329405907834514
+Iter [111/235] Loss/word = 1.7285320919913214
+Iter [133/235] Loss/word = 1.7271311426521243
+Iter [155/235] Loss/word = 1.7241846653722948
+Iter [177/235] Loss/word = 1.725906534383526
+Iter [199/235] Loss/word = 1.7244755814422914
+Iter [221/235] Loss/word = 1.7283450267972988
+Epoch 8 out of 30. Train Loss: 1.7263410659546548, Val Loss: 1.7287360630828223, Accuracy: 0.23406621237663336
+Iter [1/235] Loss/word = 1.7399797439575195
+Iter [23/235] Loss/word = 1.704389680986819
+Iter [45/235] Loss/word = 1.7130690548155043
+Iter [67/235] Loss/word = 1.718346983639162
+Iter [89/235] Loss/word = 1.7130673119191373
+Iter [111/235] Loss/word = 1.7084116806855072
+Iter [133/235] Loss/word = 1.7066276844282795
+Iter [155/235] Loss/word = 1.7045695189506778
+Iter [177/235] Loss/word = 1.7066827615102131
+Iter [199/235] Loss/word = 1.7048179803781174
+Iter [221/235] Loss/word = 1.7085771911284502
+Epoch 9 out of 30. Train Loss: 1.706718747159268, Val Loss: 1.7154743072988508, Accuracy: 0.2357480352351782
+It's an ablen a beoslound a splaces
+
+My wife still treed he's not him Jamenda is this by speeds for fight coffee wife as your loud.
+
+So I know those walks i don't was marritable by dater hop countrusting an analate. How did you call a fe.
+
+Iter [1/235] Loss/word = 1.7112491130828857
+Iter [23/235] Loss/word = 1.680889756783195
+Iter [45/235] Loss/word = 1.6923877371682061
+Iter [67/235] Loss/word = 1.6997501761166018
+Iter [89/235] Loss/word = 1.6938502560840565
+Iter [111/235] Loss/word = 1.6892619766630568
+Iter [133/235] Loss/word = 1.688619483682446
+Iter [155/235] Loss/word = 1.6858562754046533
+Iter [177/235] Loss/word = 1.6881284053716283
+Iter [199/235] Loss/word = 1.6866534732694003
+Iter [221/235] Loss/word = 1.6907765282764693
+Epoch 10 out of 30. Train Loss: 1.6889150736179757, Val Loss: 1.7031036830253357, Accuracy: 0.2380551004740762
+Iter [1/235] Loss/word = 1.703697681427002
+Iter [23/235] Loss/word = 1.6649791157763938
+Iter [45/235] Loss/word = 1.6769318103790283
+Iter [67/235] Loss/word = 1.6826832169917092
+Iter [89/235] Loss/word = 1.6765942787856198
+Iter [111/235] Loss/word = 1.67272552069243
+Iter [133/235] Loss/word = 1.671492792609939
+Iter [155/235] Loss/word = 1.6693896539749637
+Iter [177/235] Loss/word = 1.6721676143549256
+Iter [199/235] Loss/word = 1.6705467874680333
+Iter [221/235] Loss/word = 1.674384621473459
+Epoch 11 out of 30. Train Loss: 1.6725933318442487, Val Loss: 1.6947223392131328, Accuracy: 0.23870804346621713
+Q: Why, a bar herser? 
+
+Cobley times the actuitar Delling more is she want to don't have a cooking wet really more Christmas probably the other punse.
+
+I had of a crock as people in a weir for the son on pay... I-neiture is lire.
+
+Iter [1/235] Loss/word = 1.6769639253616333
+Iter [23/235] Loss/word = 1.6487298789231672
+Iter [45/235] Loss/word = 1.6614007340537178
+Iter [67/235] Loss/word = 1.6678486848945049
+Iter [89/235] Loss/word = 1.6618857959683022
+Iter [111/235] Loss/word = 1.6584345488934904
+Iter [133/235] Loss/word = 1.6573327717028166
+Iter [155/235] Loss/word = 1.6553112706830424
+Iter [177/235] Loss/word = 1.657260504819579
+Iter [199/235] Loss/word = 1.6556955174585084
+Iter [221/235] Loss/word = 1.6600952612328852
+Epoch 12 out of 30. Train Loss: 1.6584021263934197, Val Loss: 1.6860400678442538, Accuracy: 0.240033715601776
+Iter [1/235] Loss/word = 1.6775778532028198
+Iter [23/235] Loss/word = 1.6363670825958252
+Iter [45/235] Loss/word = 1.6471867879231772
+Iter [67/235] Loss/word = 1.6528909117428225
+Iter [89/235] Loss/word = 1.646914089663645
+Iter [111/235] Loss/word = 1.6443666370065362
+Iter [133/235] Loss/word = 1.644003427118287
+Iter [155/235] Loss/word = 1.6421800482657647
+Iter [177/235] Loss/word = 1.644749317465529
+Iter [199/235] Loss/word = 1.6436103025273463
+Iter [221/235] Loss/word = 1.6476928869523613
+Epoch 13 out of 30. Train Loss: 1.6461077198069147, Val Loss: 1.67818301325317, Accuracy: 0.24107050992869072
+Said when h: 12,000,00 knock with her spiokatoog] Surners, they just text bulb counting them he is much.
+
+A spat over Putalphing A matter was, but it's replies in her. Space between best, like just any socurangly I'm no tunars, in camping to mayamball was well.
+
+I kind toilly Jesus, "Ole you a friend on you win. I say it some betten. They say just rab that shown a nedulb. The neverya deciuse a zerican really is last Get otn.
+
+Iter [1/235] Loss/word = 1.6590144634246826
+Iter [23/235] Loss/word = 1.6237838838411414
+Iter [45/235] Loss/word = 1.6347740703158908
+Iter [67/235] Loss/word = 1.641241246194982
+Iter [89/235] Loss/word = 1.6355662372674835
+Iter [111/235] Loss/word = 1.6318807913376405
+Iter [133/235] Loss/word = 1.6314092175404828
+Iter [155/235] Loss/word = 1.6301838144179313
+Iter [177/235] Loss/word = 1.6326532902690651
+Iter [199/235] Loss/word = 1.631541730171472
+Iter [221/235] Loss/word = 1.6355065404020284
+Epoch 14 out of 30. Train Loss: 1.6338652199887216, Val Loss: 1.672858176947974, Accuracy: 0.2424674122088468
+Iter [1/235] Loss/word = 1.6280720233917236
+Iter [23/235] Loss/word = 1.6119527505791706
+Iter [45/235] Loss/word = 1.6247003025478788
+Iter [67/235] Loss/word = 1.629135710089954
+Iter [89/235] Loss/word = 1.6237530025203577
+Iter [111/235] Loss/word = 1.61930652674254
+Iter [133/235] Loss/word = 1.6190107012153567
+Iter [155/235] Loss/word = 1.6181178577484623
+Iter [177/235] Loss/word = 1.6209396507780431
+Iter [199/235] Loss/word = 1.6196205196668154
+Iter [221/235] Loss/word = 1.623997459584232
+Epoch 15 out of 30. Train Loss: 1.622793609537977, Val Loss: 1.6659331295987685, Accuracy: 0.24259008634676418
+A perel make us. und the marror all love the pirtor. It was working your boagion.
+
+They are an actually I for messe
+
+What kind of spect unseven condoms of a sliders? "Who Do you callets a found out up, but it was story
+
+Iter [1/235] Loss/word = 1.6142178773880005
+Iter [23/235] Loss/word = 1.6015229276988818
+Iter [45/235] Loss/word = 1.6133039474487305
+Iter [67/235] Loss/word = 1.6172000116376735
+Iter [89/235] Loss/word = 1.611649013637157
+Iter [111/235] Loss/word = 1.609199959952552
+Iter [133/235] Loss/word = 1.6092930064165503
+Iter [155/235] Loss/word = 1.6079144185589205
+Iter [177/235] Loss/word = 1.6106327967455158
+Iter [199/235] Loss/word = 1.6101806505241585
+Iter [221/235] Loss/word = 1.6142617248302131
+Epoch 16 out of 30. Train Loss: 1.612871954796162, Val Loss: 1.6621497036170045, Accuracy: 0.2435398216080601
+Iter [1/235] Loss/word = 1.6099817752838135
+Iter [23/235] Loss/word = 1.5889857229979143
+Iter [45/235] Loss/word = 1.6015312963061863
+Iter [67/235] Loss/word = 1.6080124911977285
+Iter [89/235] Loss/word = 1.602963095300653
+Iter [111/235] Loss/word = 1.5996304718223777
+Iter [133/235] Loss/word = 1.600245571674261
+Iter [155/235] Loss/word = 1.5993015043197139
+Iter [177/235] Loss/word = 1.6022935492844232
+Iter [199/235] Loss/word = 1.601114764285447
+Iter [221/235] Loss/word = 1.6052041258747223
+Epoch 17 out of 30. Train Loss: 1.6037059312171125, Val Loss: 1.6553555459236737, Accuracy: 0.24500795403281336
+What's pretty longers doll shit thing of Gree] Just teld been going to get your minutes... Turned his, the name off advice up.
+
+Girl over Face coomilouse my favorite Raps about than some childs have branking for this is.
+
+Tomaris: Girl shours. Seared of the problem (Brraist to see that His Jashous and have breaks in person his resolution's davan" and 3 yell in the rape. For camercle.
+
+Iter [1/235] Loss/word = 1.5993967056274414
+Iter [23/235] Loss/word = 1.5796048589374707
+Iter [45/235] Loss/word = 1.593565082550049
+Iter [67/235] Loss/word = 1.598931824983056
+Iter [89/235] Loss/word = 1.5936440376753218
+Iter [111/235] Loss/word = 1.5912288094426061
+Iter [133/235] Loss/word = 1.590920597090757
+Iter [155/235] Loss/word = 1.5900609885492631
+Iter [177/235] Loss/word = 1.5925521244437009
+Iter [199/235] Loss/word = 1.5916631874726646
+Iter [221/235] Loss/word = 1.5958677848539742
+Epoch 18 out of 30. Train Loss: 1.5944704979024036, Val Loss: 1.6510045956269348, Accuracy: 0.24532057522298992
+Iter [1/235] Loss/word = 1.6059592962265015
+Iter [23/235] Loss/word = 1.5715985505477241
+Iter [45/235] Loss/word = 1.583921864297655
+Iter [67/235] Loss/word = 1.5896913044488252
+Iter [89/235] Loss/word = 1.5844024714459195
+Iter [111/235] Loss/word = 1.5821016414745435
+Iter [133/235] Loss/word = 1.5826266322817122
+Iter [155/235] Loss/word = 1.5820957045401296
+Iter [177/235] Loss/word = 1.5855580352793979
+Iter [199/235] Loss/word = 1.58460523495123
+Iter [221/235] Loss/word = 1.5884604076454543
+Epoch 19 out of 30. Train Loss: 1.5870630289645906, Val Loss: 1.648231752675405, Accuracy: 0.2456015385711233
+So you beaw a text talking newsions
+
+I got to the dad to a pretty internet commort told me of Arrecard more stugger to let that trieds but it won't gent about no when you doing the cry which hue on a sind duded... You gas around of a son, 
+
+What do you call a ghost in 19 Santa canly died? [steal.
+
+Iter [1/235] Loss/word = 1.6086403131484985
+Iter [23/235] Loss/word = 1.5658360408700032
+Iter [45/235] Loss/word = 1.577674396832784
+Iter [67/235] Loss/word = 1.581004468362723
+Iter [89/235] Loss/word = 1.5763145176212439
+Iter [111/235] Loss/word = 1.573573004018079
+Iter [133/235] Loss/word = 1.5729560099150006
+Iter [155/235] Loss/word = 1.571974329794607
+Iter [177/235] Loss/word = 1.5758091797262936
+Iter [199/235] Loss/word = 1.5753675202029433
+Iter [221/235] Loss/word = 1.5797832864442023
+Epoch 20 out of 30. Train Loss: 1.5785475325077138, Val Loss: 1.6462309418155325, Accuracy: 0.24616742249764545
+Iter [1/235] Loss/word = 1.607889175415039
+Iter [23/235] Loss/word = 1.557998423990996
+Iter [45/235] Loss/word = 1.569619173473782
+Iter [67/235] Loss/word = 1.5765369490011414
+Iter [89/235] Loss/word = 1.5709273172228524
+Iter [111/235] Loss/word = 1.5678497058851224
+Iter [133/235] Loss/word = 1.5675903101612751
+Iter [155/235] Loss/word = 1.566797382600846
+Iter [177/235] Loss/word = 1.570028344116642
+Iter [199/235] Loss/word = 1.569250717234971
+Iter [221/235] Loss/word = 1.5733346086821405
+Epoch 21 out of 30. Train Loss: 1.572233512553763, Val Loss: 1.6434186310600416, Accuracy: 0.24684410887131877
+My Graxed in a Wombier Drively On Ex Time. Well have It's a ghatdort relation.
+
+How Cony cougle by hoyfbed Mcrockes walks into a legs? [very ears, I'm cup their friends over where you can just asked the blind.
+
+Women doctor does it mather where did you're a bad been a conce of changed in the class me a buttun walks into a bark's now his feecisers.
+
+Iter [1/235] Loss/word = 1.5855952501296997
+Iter [23/235] Loss/word = 1.5509967596634575
+Iter [45/235] Loss/word = 1.560580915874905
+Iter [67/235] Loss/word = 1.566583081857482
+Iter [89/235] Loss/word = 1.5622381815749609
+Iter [111/235] Loss/word = 1.5592414194399171
+Iter [133/235] Loss/word = 1.5584559584022464
+Iter [155/235] Loss/word = 1.5585182374523532
+Iter [177/235] Loss/word = 1.5616243013554374
+Iter [199/235] Loss/word = 1.5610374320092513
+Iter [221/235] Loss/word = 1.565419973291423
+Epoch 22 out of 30. Train Loss: 1.5645207653654383, Val Loss: 1.6421571730805054, Accuracy: 0.24706175653536577
+Iter [1/235] Loss/word = 1.5634827613830566
+Iter [23/235] Loss/word = 1.5395262966985288
+Iter [45/235] Loss/word = 1.5551478650834825
+Iter [67/235] Loss/word = 1.5616793401205717
+Iter [89/235] Loss/word = 1.5566664880581116
+Iter [111/235] Loss/word = 1.5534441707370517
+Iter [133/235] Loss/word = 1.5533952829533053
+Iter [155/235] Loss/word = 1.5523929865129533
+Iter [177/235] Loss/word = 1.5554116721880638
+Iter [199/235] Loss/word = 1.5548434760702314
+Iter [221/235] Loss/word = 1.5588735336631672
+Epoch 23 out of 30. Train Loss: 1.55787354935991, Val Loss: 1.6389869541096553, Accuracy: 0.2478452881259349
+What do you call a so later grave them at a 460 tate? They green 'Stardent.
+
+Spart after your races aniorzorast friend, for person movier can bested discared as a speeting chinking than a rick... it's a ducti-some an roclake... But their guill reskets when your hnow water] Here 
+
+What did leter dinners end to his long on because the zoom with only when you see
+
+Iter [1/235] Loss/word = 1.567991018295288
+Iter [23/235] Loss/word = 1.5369350029074627
+Iter [45/235] Loss/word = 1.5487871964772542
+Iter [67/235] Loss/word = 1.5556472379769852
+Iter [89/235] Loss/word = 1.5512992666008767
+Iter [111/235] Loss/word = 1.5475359768480867
+Iter [133/235] Loss/word = 1.5473104787052125
+Iter [155/235] Loss/word = 1.5468655509333458
+Iter [177/235] Loss/word = 1.5501740611879165
+Iter [199/235] Loss/word = 1.5498133526375546
+Iter [221/235] Loss/word = 1.5539028374857493
+Epoch 24 out of 30. Train Loss: 1.5525955590795963, Val Loss: 1.6363987331863026, Accuracy: 0.24814999485560066
+Iter [1/235] Loss/word = 1.5627835988998413
+Iter [23/235] Loss/word = 1.5330000960308572
+Iter [45/235] Loss/word = 1.546107816696167
+Iter [67/235] Loss/word = 1.5511381964185345
+Iter [89/235] Loss/word = 1.545755721210094
+Iter [111/235] Loss/word = 1.542248957865947
+Iter [133/235] Loss/word = 1.5421952824843557
+Iter [155/235] Loss/word = 1.5415987483916744
+Iter [177/235] Loss/word = 1.5445590625375003
+Iter [199/235] Loss/word = 1.5446214286526243
+Iter [221/235] Loss/word = 1.5485019489650813
+Epoch 25 out of 30. Train Loss: 1.5473637717835447, Val Loss: 1.6334626100522627, Accuracy: 0.2488306384595294
+Boil Girl Me: Everyone win home this was make her calling to it wants to go out. Start a shows in the only tigious?
+
+If I see for a minot as She was funny. The darted the food at a atrocate in the speeting a full daeslinatches
+
+A rain down blowbed short up of wood body fly the winto of dentroups in a friend. This is about soop."
+
+Iter [1/235] Loss/word = 1.561729073524475
+Iter [23/235] Loss/word = 1.525999146959056
+Iter [45/235] Loss/word = 1.5386555777655708
+Iter [67/235] Loss/word = 1.543276256589747
+Iter [89/235] Loss/word = 1.5381301413761097
+Iter [111/235] Loss/word = 1.5357516595909186
+Iter [133/235] Loss/word = 1.535253371511187
+Iter [155/235] Loss/word = 1.5356546378904774
+Iter [177/235] Loss/word = 1.5393100694074469
+Iter [199/235] Loss/word = 1.5386591251172013
+Iter [221/235] Loss/word = 1.542911075898425
+Epoch 26 out of 30. Train Loss: 1.541965797606935, Val Loss: 1.6308448062621528, Accuracy: 0.248846467380551
+Iter [1/235] Loss/word = 1.5492572784423828
+Iter [23/235] Loss/word = 1.5228971191074536
+Iter [45/235] Loss/word = 1.535121340221829
+Iter [67/235] Loss/word = 1.5396423161919437
+Iter [89/235] Loss/word = 1.5352660417556763
+Iter [111/235] Loss/word = 1.5313415344770964
+Iter [133/235] Loss/word = 1.531377437419461
+Iter [155/235] Loss/word = 1.5307194648250457
+Iter [177/235] Loss/word = 1.5340770496486944
+Iter [199/235] Loss/word = 1.5335916364612292
+Iter [221/235] Loss/word = 1.5380887974441322
+Epoch 27 out of 30. Train Loss: 1.537187214607888, Val Loss: 1.6295494491533695, Accuracy: 0.24936486454400836
+You stop a pize classed commung or some nice to show with twitted bitcha to make the kids creezers cream... ...lykes, you wank.
+
+its sew for sometimematute when they went to be like bride, they said, "Here's Rusgin-American show a hot?" Teach, but I can't know you gave didn't breakfable studing a tedie".
+
+Did you call a farter years? He tereday, sometipily my folmed in drown-termine.
+
+Iter [1/235] Loss/word = 1.5382367372512817
+Iter [23/235] Loss/word = 1.5131631208502727
+Iter [45/235] Loss/word = 1.5268838008244832
+Iter [67/235] Loss/word = 1.5335504083491083
+Iter [89/235] Loss/word = 1.5286712820610304
+Iter [111/235] Loss/word = 1.525600729761897
+Iter [133/235] Loss/word = 1.525023086626727
+Iter [155/235] Loss/word = 1.5243268105291552
+Iter [177/235] Loss/word = 1.5276044789007155
+Iter [199/235] Loss/word = 1.5276364537339713
+Iter [221/235] Loss/word = 1.5322494771146127
+Epoch 28 out of 30. Train Loss: 1.5313186051997734, Val Loss: 1.6280808743717763, Accuracy: 0.24932529224145436
+Iter [1/235] Loss/word = 1.5432621240615845
+Iter [23/235] Loss/word = 1.5112268302751624
+Iter [45/235] Loss/word = 1.5234379874335395
+Iter [67/235] Loss/word = 1.5301625230419102
+Iter [89/235] Loss/word = 1.525146649124917
+Iter [111/235] Loss/word = 1.5218228015813742
+Iter [133/235] Loss/word = 1.5211770857187141
+Iter [155/235] Loss/word = 1.5205335593992664
+Iter [177/235] Loss/word = 1.5235079803035758
+Iter [199/235] Loss/word = 1.5233888344549054
+Iter [221/235] Loss/word = 1.5277284739783448
+Epoch 29 out of 30. Train Loss: 1.526731877124056, Val Loss: 1.6256517202829381, Accuracy: 0.2501365244438113
+It's loved a hor disappease. Said to lad to 100 are all shit shillburany... I've made my women. On the exyerd.
+
+How do you are the grough and a due? I make a conful.
+
+Happy More you're but those teenage sure run dognacted at having to do you will true unouse through my detect out playing to woodolog
+
+------------Done Training-------------
+*Knock knock* Just think to the uning cought a scholo in favorite.
+
+What did the difference between people way to the zomanalz 2 the man wire up when you call a Can Loofie old pulling to be catlow jnan is so cancers really cross the rocked while you a rgan in the slame?
+
+Why did the girl before forestice Pactualt? Barturable heard bookbult and said is wars.
+
+I heard the difference between the say starts outtiritable heround.
+
+
+
+
+
+Tue Aug 18 01:14:03 2020       
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 450.57       Driver Version: 418.67       CUDA Version: 10.1     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|                               |                      |               MIG M. |
+|===============================+======================+======================|
+|   0  Tesla T4            Off  | 00000000:00:04.0 Off |                    0 |
+| N/A   67C    P8    11W /  70W |      0MiB / 15079MiB |      0%      Default |
+|                               |                      |                 ERR! |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Processes:                                                                  |
+|  GPU   GI   CI        PID   Type   Process name                  GPU Memory |
+|        ID   ID                                                   Usage      |
+|=============================================================================|
+|  No running processes found                                                 |
++-----------------------------------------------------------------------------+
+Iter [1/235] Loss/word = 4.531055450439453
+Iter [23/235] Loss/word = 3.601420765337737
+Iter [45/235] Loss/word = 3.270673370361328
+Iter [67/235] Loss/word = 3.101813230941545
+Iter [89/235] Loss/word = 2.9823087761911116
+Iter [111/235] Loss/word = 2.898304037145666
+Iter [133/235] Loss/word = 2.8339941250650504
+Iter [155/235] Loss/word = 2.779836400862663
+Iter [177/235] Loss/word = 2.7366346531668624
+Iter [199/235] Loss/word = 2.698597356901696
+Iter [221/235] Loss/word = 2.668314364161427
+Epoch 0 out of 50. Train Loss: 2.648132814245021, Val Loss: 2.2879878516963346, Accuracy: 0.1673116951982968
+Iter [1/235] Loss/word = 2.327944040298462
+Iter [23/235] Loss/word = 2.3051367427991782
+Iter [45/235] Loss/word = 2.303977701399061
+Iter [67/235] Loss/word = 2.301788621873998
+Iter [89/235] Loss/word = 2.287900370158506
+Iter [111/235] Loss/word = 2.2745613063777887
+Iter [133/235] Loss/word = 2.264908896353012
+Iter [155/235] Loss/word = 2.2536686635786487
+Iter [177/235] Loss/word = 2.24614247629198
+Iter [199/235] Loss/word = 2.2380368925219205
+Iter [221/235] Loss/word = 2.2344722229970526
+Epoch 1 out of 50. Train Loss: 2.2288360737739725, Val Loss: 2.1042846860550197, Accuracy: 0.1893890827931714
+Iter [1/235] Loss/word = 2.1406142711639404
+Iter [23/235] Loss/word = 2.1282657022061557
+Iter [45/235] Loss/word = 2.1330391512976754
+Iter [67/235] Loss/word = 2.136675179894291
+Iter [89/235] Loss/word = 2.1273329793737177
+Iter [111/235] Loss/word = 2.1181676570359653
+Iter [133/235] Loss/word = 2.1129715290284694
+Iter [155/235] Loss/word = 2.1062025908500916
+Iter [177/235] Loss/word = 2.1030352829539845
+Iter [199/235] Loss/word = 2.098488233796316
+Iter [221/235] Loss/word = 2.09890579476076
+Epoch 2 out of 50. Train Loss: 2.0948323006325578, Val Loss: 2.0094505092985244, Accuracy: 0.2002239792324556
+Iter [1/235] Loss/word = 2.0334677696228027
+Iter [23/235] Loss/word = 2.0311991598295127
+Iter [45/235] Loss/word = 2.037870992554559
+Iter [67/235] Loss/word = 2.0423989295959473
+Iter [89/235] Loss/word = 2.0346116711584368
+Iter [111/235] Loss/word = 2.0272389897355088
+Iter [133/235] Loss/word = 2.0239126216200063
+Iter [155/235] Loss/word = 2.01889478160489
+Iter [177/235] Loss/word = 2.0168916357439115
+Iter [199/235] Loss/word = 2.0135674710249782
+Iter [221/235] Loss/word = 2.015563635265126
+Epoch 3 out of 50. Train Loss: 2.0127720848042916, Val Loss: 1.947475430205, Accuracy: 0.20705020142302
+Iter [1/235] Loss/word = 1.9633792638778687
+Iter [23/235] Loss/word = 1.965013747629912
+Iter [45/235] Loss/word = 1.9735323164198133
+Iter [67/235] Loss/word = 1.9806190319915316
+Iter [89/235] Loss/word = 1.9731794716267104
+Iter [111/235] Loss/word = 1.966980996432605
+Iter [133/235] Loss/word = 1.9642080642226944
+Iter [155/235] Loss/word = 1.9594383216673328
+Iter [177/235] Loss/word = 1.9589059844528889
+Iter [199/235] Loss/word = 1.9563120951005561
+Iter [221/235] Loss/word = 1.958999295040493
+Epoch 4 out of 50. Train Loss: 1.9563010489687007, Val Loss: 1.9029363741596446, Accuracy: 0.21202048262380194
+You cunts, "When ene o thand do the on my hotpore? Theim trmenced reapis?
+
+Grostiguy rulping to you price. - loogivoure a concone,. I have whren his sam Jathing fold the roochald I'm ofther.
+
+Serd and Barally fing.
+
+Iter [1/235] Loss/word = 1.9173965454101562
+Iter [23/235] Loss/word = 1.9145586801611858
+Iter [45/235] Loss/word = 1.9251929918924968
+Iter [67/235] Loss/word = 1.931500137741886
+Iter [89/235] Loss/word = 1.925022931581133
+Iter [111/235] Loss/word = 1.9188426034944552
+Iter [133/235] Loss/word = 1.916648921213652
+Iter [155/235] Loss/word = 1.912352954187701
+Iter [177/235] Loss/word = 1.912301693258986
+Iter [199/235] Loss/word = 1.9104052770077882
+Iter [221/235] Loss/word = 1.9137719405722295
+Epoch 5 out of 50. Train Loss: 1.911577709177707, Val Loss: 1.8675049727292752, Accuracy: 0.2159658411884354
+Iter [1/235] Loss/word = 1.8850957155227661
+Iter [23/235] Loss/word = 1.8713008009869119
+Iter [45/235] Loss/word = 1.8821401331159804
+Iter [67/235] Loss/word = 1.8902635770057565
+Iter [89/235] Loss/word = 1.884712870201368
+Iter [111/235] Loss/word = 1.8796722309009448
+Iter [133/235] Loss/word = 1.8780088819059215
+Iter [155/235] Loss/word = 1.8740335879787322
+Iter [177/235] Loss/word = 1.874052102282896
+Iter [199/235] Loss/word = 1.8725120667836175
+Iter [221/235] Loss/word = 1.87627742301285
+Epoch 6 out of 50. Train Loss: 1.8743887850578795, Val Loss: 1.8381496174253529, Accuracy: 0.220120932956605
+Iter [1/235] Loss/word = 1.8389073610305786
+Iter [23/235] Loss/word = 1.8382106501123179
+Iter [45/235] Loss/word = 1.8500037643644545
+Iter [67/235] Loss/word = 1.8589206364617419
+Iter [89/235] Loss/word = 1.8530767432759316
+Iter [111/235] Loss/word = 1.848136364876687
+Iter [133/235] Loss/word = 1.8466129007196068
+Iter [155/235] Loss/word = 1.8421529231532927
+Iter [177/235] Loss/word = 1.8429372330843392
+Iter [199/235] Loss/word = 1.8416387621481813
+Iter [221/235] Loss/word = 1.8455092448454637
+Epoch 7 out of 50. Train Loss: 1.8434871688802192, Val Loss: 1.8139619958772362, Accuracy: 0.22285142183283077
+Iter [1/235] Loss/word = 1.8211506605148315
+Iter [23/235] Loss/word = 1.812285998593206
+Iter [45/235] Loss/word = 1.8247515519460042
+Iter [67/235] Loss/word = 1.8328669338083978
+Iter [89/235] Loss/word = 1.8260479803835408
+Iter [111/235] Loss/word = 1.821076354464969
+Iter [133/235] Loss/word = 1.8197556375560904
+Iter [155/235] Loss/word = 1.8156971477693127
+Iter [177/235] Loss/word = 1.816195752661107
+Iter [199/235] Loss/word = 1.8149518301738568
+Iter [221/235] Loss/word = 1.8186610176552476
+Epoch 8 out of 50. Train Loss: 1.8168799892384955, Val Loss: 1.7921310343997752, Accuracy: 0.2257956011428481
+Iter [1/235] Loss/word = 1.7957940101623535
+Iter [23/235] Loss/word = 1.7849729890408723
+Iter [45/235] Loss/word = 1.7952709118525187
+Iter [67/235] Loss/word = 1.8040555875692794
+Iter [89/235] Loss/word = 1.798276467269726
+Iter [111/235] Loss/word = 1.7926956823280267
+Iter [133/235] Loss/word = 1.791539502323122
+Iter [155/235] Loss/word = 1.7883422313197967
+Iter [177/235] Loss/word = 1.789193045621538
+Iter [199/235] Loss/word = 1.787705997725827
+Iter [221/235] Loss/word = 1.7918839470833134
+Epoch 9 out of 50. Train Loss: 1.790281689927933, Val Loss: 1.771503011957347, Accuracy: 0.22860523462418184
+Retter in  how it's bur train. She worst boll cooking your drick and redain, I'm reation, the worked the Jew. The been in the fan of at
+
+An Purcuit not was up first a lun't be an worse sand singlus they be a perpice of Brut to finds will you can Spubllis, and the blidn perlos speen never stunts and a comparce.
+
+Why does a scarts for drives
+
+Iter [1/235] Loss/word = 1.7577849626541138
+Iter [23/235] Loss/word = 1.7576456795568052
+Iter [45/235] Loss/word = 1.7717726124657525
+Iter [67/235] Loss/word = 1.780990773172521
+Iter [89/235] Loss/word = 1.7747170094693645
+Iter [111/235] Loss/word = 1.7694039871026803
+Iter [133/235] Loss/word = 1.7684065641317153
+Iter [155/235] Loss/word = 1.7649058826508062
+Iter [177/235] Loss/word = 1.7660742499734048
+Iter [199/235] Loss/word = 1.7646159125332856
+Iter [221/235] Loss/word = 1.7686458540178531
+Epoch 10 out of 50. Train Loss: 1.7670751170909151, Val Loss: 1.7579651573102633, Accuracy: 0.23054427744932768
+Iter [1/235] Loss/word = 1.7494968175888062
+Iter [23/235] Loss/word = 1.7422686037809954
+Iter [45/235] Loss/word = 1.7521928098466661
+Iter [67/235] Loss/word = 1.7595503632702045
+Iter [89/235] Loss/word = 1.7535424393214536
+Iter [111/235] Loss/word = 1.7487359465779484
+Iter [133/235] Loss/word = 1.7482819996382062
+Iter [155/235] Loss/word = 1.7451512059857768
+Iter [177/235] Loss/word = 1.745984313851696
+Iter [199/235] Loss/word = 1.7450503691956027
+Iter [221/235] Loss/word = 1.7490753847009994
+Epoch 11 out of 50. Train Loss: 1.7475162840904073, Val Loss: 1.7422610639477614, Accuracy: 0.23270096793852046
+Iter [1/235] Loss/word = 1.7325574159622192
+Iter [23/235] Loss/word = 1.7208914082983267
+Iter [45/235] Loss/word = 1.7322471486197577
+Iter [67/235] Loss/word = 1.7395317714605758
+Iter [89/235] Loss/word = 1.7347003904621252
+Iter [111/235] Loss/word = 1.7305647682499241
+Iter [133/235] Loss/word = 1.729262155697758
+Iter [155/235] Loss/word = 1.7273355291735741
+Iter [177/235] Loss/word = 1.728954678201406
+Iter [199/235] Loss/word = 1.7278005567627337
+Iter [221/235] Loss/word = 1.7320494209479422
+Epoch 12 out of 50. Train Loss: 1.7303662538528441, Val Loss: 1.7316991683962248, Accuracy: 0.23415327144225215
+Iter [1/235] Loss/word = 1.7293049097061157
+Iter [23/235] Loss/word = 1.7035376144492107
+Iter [45/235] Loss/word = 1.7146692620383368
+Iter [67/235] Loss/word = 1.723068440138404
+Iter [89/235] Loss/word = 1.7173355549908755
+Iter [111/235] Loss/word = 1.7129591853768975
+Iter [133/235] Loss/word = 1.7127006600673933
+Iter [155/235] Loss/word = 1.7100327068759549
+Iter [177/235] Loss/word = 1.711445468293745
+Iter [199/235] Loss/word = 1.7107111485160176
+Iter [221/235] Loss/word = 1.7147493642919205
+Epoch 13 out of 50. Train Loss: 1.713595618592932, Val Loss: 1.7196582574352657, Accuracy: 0.235914238905905
+Iter [1/235] Loss/word = 1.707594394683838
+Iter [23/235] Loss/word = 1.688570069230121
+Iter [45/235] Loss/word = 1.698143686188592
+Iter [67/235] Loss/word = 1.7062566938684947
+Iter [89/235] Loss/word = 1.7019465492012795
+Iter [111/235] Loss/word = 1.6977984003118567
+Iter [133/235] Loss/word = 1.6977628577024417
+Iter [155/235] Loss/word = 1.695458932076731
+Iter [177/235] Loss/word = 1.6969369798056824
+Iter [199/235] Loss/word = 1.6955957310882646
+Iter [221/235] Loss/word = 1.7004683422287126
+Epoch 14 out of 50. Train Loss: 1.6991168255501605, Val Loss: 1.708424579897087, Accuracy: 0.23758419007368362
+What worded to the blind be a blall? i replies one, I can't phoplas of a baby over swull.
+
+Sanding But of the was at the HAN? Cay Mrice bran Chinues!
+
+When Do Oks you were the road doing? To make a watch.
+
+Iter [1/235] Loss/word = 1.6938021183013916
+Iter [23/235] Loss/word = 1.6757279427155205
+Iter [45/235] Loss/word = 1.6848007784949408
+Iter [67/235] Loss/word = 1.6927460805693668
+Iter [89/235] Loss/word = 1.688253390655089
+Iter [111/235] Loss/word = 1.684575103424691
+Iter [133/235] Loss/word = 1.6843481494071788
+Iter [155/235] Loss/word = 1.6821267997064897
+Iter [177/235] Loss/word = 1.6840817901374256
+Iter [199/235] Loss/word = 1.6834981417536137
+Iter [221/235] Loss/word = 1.6880816485547372
+Epoch 15 out of 50. Train Loss: 1.686799473458148, Val Loss: 1.697702062644547, Accuracy: 0.23857349763753355
+Iter [1/235] Loss/word = 1.6892781257629395
+Iter [23/235] Loss/word = 1.6611855444700823
+Iter [45/235] Loss/word = 1.6718379709455702
+Iter [67/235] Loss/word = 1.6805519790791754
+Iter [89/235] Loss/word = 1.6752308995536205
+Iter [111/235] Loss/word = 1.6710587202965677
+Iter [133/235] Loss/word = 1.6705371302769596
+Iter [155/235] Loss/word = 1.6683303925298876
+Iter [177/235] Loss/word = 1.6704522573341758
+Iter [199/235] Loss/word = 1.669206441946365
+Iter [221/235] Loss/word = 1.6734493258851686
+Epoch 16 out of 50. Train Loss: 1.6726522486260598, Val Loss: 1.6940120652520494, Accuracy: 0.2390008785051167
+Iter [1/235] Loss/word = 1.668800711631775
+Iter [23/235] Loss/word = 1.6484395576559978
+Iter [45/235] Loss/word = 1.6563605229059855
+Iter [67/235] Loss/word = 1.6659969625188344
+Iter [89/235] Loss/word = 1.661528267217486
+Iter [111/235] Loss/word = 1.6577309047853626
+Iter [133/235] Loss/word = 1.658209052300991
+Iter [155/235] Loss/word = 1.655940471156951
+Iter [177/235] Loss/word = 1.658160679084433
+Iter [199/235] Loss/word = 1.6578291876232205
+Iter [221/235] Loss/word = 1.6623520646160004
+Epoch 17 out of 50. Train Loss: 1.661189219292174, Val Loss: 1.6867863554462825, Accuracy: 0.24031467894990938
+Iter [1/235] Loss/word = 1.6476649045944214
+Iter [23/235] Loss/word = 1.6390205932700115
+Iter [45/235] Loss/word = 1.650393952263726
+Iter [67/235] Loss/word = 1.6573532054673379
+Iter [89/235] Loss/word = 1.651054591275333
+Iter [111/235] Loss/word = 1.6468295503307033
+Iter [133/235] Loss/word = 1.6469713879707164
+Iter [155/235] Loss/word = 1.6455163055850615
+Iter [177/235] Loss/word = 1.648077201035063
+Iter [199/235] Loss/word = 1.6471884879634608
+Iter [221/235] Loss/word = 1.6514599830316743
+Epoch 18 out of 50. Train Loss: 1.6504146560709527, Val Loss: 1.6791392010178783, Accuracy: 0.2413237726650363
+Iter [1/235] Loss/word = 1.64533531665802
+Iter [23/235] Loss/word = 1.62325990718344
+Iter [45/235] Loss/word = 1.636349089940389
+Iter [67/235] Loss/word = 1.6449024090126378
+Iter [89/235] Loss/word = 1.6400314248010013
+Iter [111/235] Loss/word = 1.636719106553911
+Iter [133/235] Loss/word = 1.636664969580514
+Iter [155/235] Loss/word = 1.6349709695385348
+Iter [177/235] Loss/word = 1.6377344003504952
+Iter [199/235] Loss/word = 1.6371326865862363
+Iter [221/235] Loss/word = 1.6415358851937687
+Epoch 19 out of 50. Train Loss: 1.6406067234404544, Val Loss: 1.6713141146228372, Accuracy: 0.24209938979509463
+I used to do you get that resure learned folo, and the fast? The eross that like I guess sew the sarked my cerried.
+
+In a Kay phople repeaser for a Strip sproced.
+
+What do you call a light guyjbraterdator? IN means you are'll to day "they're only cars? A Unavial falled membet.
+
+Iter [1/235] Loss/word = 1.6090558767318726
+Iter [23/235] Loss/word = 1.6161743609801582
+Iter [45/235] Loss/word = 1.6280730353461372
+Iter [67/235] Loss/word = 1.6352829844204348
+Iter [89/235] Loss/word = 1.6299908603175302
+Iter [111/235] Loss/word = 1.6255715698809237
+Iter [133/235] Loss/word = 1.6253744310006164
+Iter [155/235] Loss/word = 1.6239231701820127
+Iter [177/235] Loss/word = 1.6268272851146548
+Iter [199/235] Loss/word = 1.626239376451502
+Iter [221/235] Loss/word = 1.6302786811983963
+Epoch 20 out of 50. Train Loss: 1.6292921969231138, Val Loss: 1.6646629582396704, Accuracy: 0.24293436537898394
+Iter [1/235] Loss/word = 1.6024185419082642
+Iter [23/235] Loss/word = 1.607865851858388
+Iter [45/235] Loss/word = 1.619418133629693
+Iter [67/235] Loss/word = 1.6278020784036438
+Iter [89/235] Loss/word = 1.6222630498114596
+Iter [111/235] Loss/word = 1.618332399978294
+Iter [133/235] Loss/word = 1.6175303244052972
+Iter [155/235] Loss/word = 1.6163891992261332
+Iter [177/235] Loss/word = 1.618574704154063
+Iter [199/235] Loss/word = 1.6180099740100267
+Iter [221/235] Loss/word = 1.6226476128824157
+Epoch 21 out of 50. Train Loss: 1.621693171338832, Val Loss: 1.6588424504232064, Accuracy: 0.24392367294283385
+Iter [1/235] Loss/word = 1.6145602464675903
+Iter [23/235] Loss/word = 1.5948175036388894
+Iter [45/235] Loss/word = 1.6057058440314398
+Iter [67/235] Loss/word = 1.6141738678092388
+Iter [89/235] Loss/word = 1.6094780169176253
+Iter [111/235] Loss/word = 1.6060686755824733
+Iter [133/235] Loss/word = 1.6065761800995446
+Iter [155/235] Loss/word = 1.6047863475738033
+Iter [177/235] Loss/word = 1.6073824679110684
+Iter [199/235] Loss/word = 1.606684268419467
+Iter [221/235] Loss/word = 1.6109146090114819
+Epoch 22 out of 50. Train Loss: 1.60994494214971, Val Loss: 1.6542389481473598, Accuracy: 0.2444222839550142
+Iter [1/235] Loss/word = 1.5948456525802612
+Iter [23/235] Loss/word = 1.585730184679446
+Iter [45/235] Loss/word = 1.5973214811748928
+Iter [67/235] Loss/word = 1.605552271230897
+Iter [89/235] Loss/word = 1.600758659705687
+Iter [111/235] Loss/word = 1.59774488693959
+Iter [133/235] Loss/word = 1.598068736549607
+Iter [155/235] Loss/word = 1.5968218395786902
+Iter [177/235] Loss/word = 1.5997145505948256
+Iter [199/235] Loss/word = 1.5996910579240502
+Iter [221/235] Loss/word = 1.6044828330769259
+Epoch 23 out of 50. Train Loss: 1.603435551866572, Val Loss: 1.651813224208155, Accuracy: 0.24503565464460114
+Iter [1/235] Loss/word = 1.5948765277862549
+Iter [23/235] Loss/word = 1.5784567076226939
+Iter [45/235] Loss/word = 1.5876399834950765
+Iter [67/235] Loss/word = 1.5962483776149465
+Iter [89/235] Loss/word = 1.5926380036921983
+Iter [111/235] Loss/word = 1.5893650269723154
+Iter [133/235] Loss/word = 1.5903220122918151
+Iter [155/235] Loss/word = 1.5888306440845612
+Iter [177/235] Loss/word = 1.5912124666117005
+Iter [199/235] Loss/word = 1.5903690148837601
+Iter [221/235] Loss/word = 1.5949364226328302
+Epoch 24 out of 50. Train Loss: 1.594073347335166, Val Loss: 1.6454671027658465, Accuracy: 0.2455342656567815
+What do you call a bhabs feels? I say "which back Can yes used of the raigh time they're a butts.
+
+I fad glones least make it's not laught next to profession because that I have a guy a pig on eworto.. I'm to get a busticers.
+
+A guy when you all the work. I see it I'm dalfing.
+
+Iter [1/235] Loss/word = 1.5673387050628662
+Iter [23/235] Loss/word = 1.572885311168173
+Iter [45/235] Loss/word = 1.582636989487542
+Iter [67/235] Loss/word = 1.5901765520892925
+Iter [89/235] Loss/word = 1.5846948596868622
+Iter [111/235] Loss/word = 1.5812823632815938
+Iter [133/235] Loss/word = 1.581761214069854
+Iter [155/235] Loss/word = 1.5805230148376956
+Iter [177/235] Loss/word = 1.583161487417706
+Iter [199/235] Loss/word = 1.5827102505381982
+Iter [221/235] Loss/word = 1.587084655848024
+Epoch 25 out of 50. Train Loss: 1.5862460466141397, Val Loss: 1.6434042823972177, Accuracy: 0.24619512310943326
+Iter [1/235] Loss/word = 1.5671883821487427
+Iter [23/235] Loss/word = 1.5632736682891846
+Iter [45/235] Loss/word = 1.575658795568678
+Iter [67/235] Loss/word = 1.582815631112056
+Iter [89/235] Loss/word = 1.578252807092131
+Iter [111/235] Loss/word = 1.5743315853514113
+Iter [133/235] Loss/word = 1.5740298122391665
+Iter [155/235] Loss/word = 1.5733164433510072
+Iter [177/235] Loss/word = 1.5766525275289676
+Iter [199/235] Loss/word = 1.5757749452063785
+Iter [221/235] Loss/word = 1.5807403088694785
+Epoch 26 out of 50. Train Loss: 1.57978770073424, Val Loss: 1.639566261705449, Accuracy: 0.2468915956343836
+Iter [1/235] Loss/word = 1.5766901969909668
+Iter [23/235] Loss/word = 1.5595003159149834
+Iter [45/235] Loss/word = 1.5681884606679282
+Iter [67/235] Loss/word = 1.5735758774316133
+Iter [89/235] Loss/word = 1.5694023879726282
+Iter [111/235] Loss/word = 1.5659187430734034
+Iter [133/235] Loss/word = 1.5660083069837183
+Iter [155/235] Loss/word = 1.565010295375701
+Iter [177/235] Loss/word = 1.5678001177512992
+Iter [199/235] Loss/word = 1.5679059400031314
+Iter [221/235] Loss/word = 1.5720103552977964
+Epoch 27 out of 50. Train Loss: 1.5712730331623808, Val Loss: 1.6379633664513091, Accuracy: 0.24683619441080798
+Iter [1/235] Loss/word = 1.563254475593567
+Iter [23/235] Loss/word = 1.5560845654943716
+Iter [45/235] Loss/word = 1.5646462625927395
+Iter [67/235] Loss/word = 1.570035333064065
+Iter [89/235] Loss/word = 1.56517951140243
+Iter [111/235] Loss/word = 1.56079710281647
+Iter [133/235] Loss/word = 1.560544062377815
+Iter [155/235] Loss/word = 1.5592562883130965
+Iter [177/235] Loss/word = 1.5620649345850541
+Iter [199/235] Loss/word = 1.5616794345366896
+Iter [221/235] Loss/word = 1.5662527051986073
+Epoch 28 out of 50. Train Loss: 1.5652871867443652, Val Loss: 1.6327202011355393, Accuracy: 0.24737437772554233
+Iter [1/235] Loss/word = 1.5325113534927368
+Iter [23/235] Loss/word = 1.5434571038121763
+Iter [45/235] Loss/word = 1.554492629898919
+Iter [67/235] Loss/word = 1.5610223812843436
+Iter [89/235] Loss/word = 1.557042329498891
+Iter [111/235] Loss/word = 1.5532860723701682
+Iter [133/235] Loss/word = 1.553108791659649
+Iter [155/235] Loss/word = 1.55258783448127
+Iter [177/235] Loss/word = 1.5558955231628848
+Iter [199/235] Loss/word = 1.555724806522005
+Iter [221/235] Loss/word = 1.5598729929772976
+Epoch 29 out of 50. Train Loss: 1.5593740630657116, Val Loss: 1.6326831757402915, Accuracy: 0.2479521333428307
+I can't start. It's 'charged back tood day body...
+
+Day i incalls here on the granady favorite girlfriend 400 minutely his addrult.
+
+Loved up a fam, they'd be was about relace stop anything buts there's the doctor to Stooes walks, we're found wall me this under.
+
+Iter [1/235] Loss/word = 1.552852749824524
+Iter [23/235] Loss/word = 1.5382977413094563
+Iter [45/235] Loss/word = 1.5492087867524889
+Iter [67/235] Loss/word = 1.5560654579703488
+Iter [89/235] Loss/word = 1.5505642582861225
+Iter [111/235] Loss/word = 1.5467962950199574
+Iter [133/235] Loss/word = 1.5477386578581387
+Iter [155/235] Loss/word = 1.546770122743422
+Iter [177/235] Loss/word = 1.550179462648381
+Iter [199/235] Loss/word = 1.5501105539762794
+Iter [221/235] Loss/word = 1.554418985120851
+Epoch 30 out of 50. Train Loss: 1.5537027495972653, Val Loss: 1.628820255601244, Accuracy: 0.24867630647956881
+Iter [1/235] Loss/word = 1.5406204462051392
+Iter [23/235] Loss/word = 1.532218186751656
+Iter [45/235] Loss/word = 1.5436800824271308
+Iter [67/235] Loss/word = 1.5493262828286014
+Iter [89/235] Loss/word = 1.5452511042691348
+Iter [111/235] Loss/word = 1.5413991535032117
+Iter [133/235] Loss/word = 1.54100045136043
+Iter [155/235] Loss/word = 1.5398815147338374
+Iter [177/235] Loss/word = 1.5439423827801722
+Iter [199/235] Loss/word = 1.5431356040676634
+Iter [221/235] Loss/word = 1.5475172511053301
+Epoch 31 out of 50. Train Loss: 1.5466238316069258, Val Loss: 1.6269227322056996, Accuracy: 0.24930550609017738
+Iter [1/235] Loss/word = 1.5483996868133545
+Iter [23/235] Loss/word = 1.523259313210197
+Iter [45/235] Loss/word = 1.5356236908170913
+Iter [67/235] Loss/word = 1.5409549545885912
+Iter [89/235] Loss/word = 1.5374707653281394
+Iter [111/235] Loss/word = 1.5343166278289244
+Iter [133/235] Loss/word = 1.5338934480695796
+Iter [155/235] Loss/word = 1.5329759267068679
+Iter [177/235] Loss/word = 1.5364290448905384
+Iter [199/235] Loss/word = 1.5361650966519687
+Iter [221/235] Loss/word = 1.540704261663273
+Epoch 32 out of 50. Train Loss: 1.5402660430745876, Val Loss: 1.6264776760439792, Accuracy: 0.24942422299783934
+Iter [1/235] Loss/word = 1.5090241432189941
+Iter [23/235] Loss/word = 1.5197082654289578
+Iter [45/235] Loss/word = 1.5305896441141764
+Iter [67/235] Loss/word = 1.5367890418465457
+Iter [89/235] Loss/word = 1.5330314020092568
+Iter [111/235] Loss/word = 1.529711897308762
+Iter [133/235] Loss/word = 1.5297661096529853
+Iter [155/235] Loss/word = 1.5289918222735006
+Iter [177/235] Loss/word = 1.532158345825928
+Iter [199/235] Loss/word = 1.5321675832547135
+Iter [221/235] Loss/word = 1.536834835466756
+Epoch 33 out of 50. Train Loss: 1.5357660836361824, Val Loss: 1.6229968179615852, Accuracy: 0.24947962422141495
+Iter [1/235] Loss/word = 1.5222269296646118
+Iter [23/235] Loss/word = 1.5134498658387556
+Iter [45/235] Loss/word = 1.524807291560703
+Iter [67/235] Loss/word = 1.5325707926679013
+Iter [89/235] Loss/word = 1.5281347880202734
+Iter [111/235] Loss/word = 1.5242533662297704
+Iter [133/235] Loss/word = 1.5252372053332794
+Iter [155/235] Loss/word = 1.5249197982972669
+Iter [177/235] Loss/word = 1.5281452270550917
+Iter [199/235] Loss/word = 1.5275375867009762
+Iter [221/235] Loss/word = 1.5319244748326988
+Epoch 34 out of 50. Train Loss: 1.5314487381184354, Val Loss: 1.6210420172658564, Accuracy: 0.2500217647664047
+Pleas in my bills drives... It was a bar doorbrue It's got to see my office.
+
+The Snock you sipvets of why too worrists warts for it tire you logity?"
+
+Be: We know they're the croses my double rawlers realize
+
+Iter [1/235] Loss/word = 1.5154892206192017
+Iter [23/235] Loss/word = 1.510710773260697
+Iter [45/235] Loss/word = 1.520620248052809
+Iter [67/235] Loss/word = 1.526729117578535
+Iter [89/235] Loss/word = 1.5217330295048404
+Iter [111/235] Loss/word = 1.5182157754898071
+Iter [133/235] Loss/word = 1.5187999019049163
+Iter [155/235] Loss/word = 1.5184420916341965
+Iter [177/235] Loss/word = 1.522002795995292
+Iter [199/235] Loss/word = 1.521441727427382
+Iter [221/235] Loss/word = 1.5259024384874025
+Epoch 35 out of 50. Train Loss: 1.5250407376187913, Val Loss: 1.6177401962421305, Accuracy: 0.2504451884037325
+Iter [1/235] Loss/word = 1.5136306285858154
+Iter [23/235] Loss/word = 1.504288849623307
+Iter [45/235] Loss/word = 1.5153134240044488
+Iter [67/235] Loss/word = 1.5216580575971461
+Iter [89/235] Loss/word = 1.5177905626511305
+Iter [111/235] Loss/word = 1.5138468420183337
+Iter [133/235] Loss/word = 1.5139710419160082
+Iter [155/235] Loss/word = 1.5135929223029845
+Iter [177/235] Loss/word = 1.5167578883090262
+Iter [199/235] Loss/word = 1.516482813274441
+Iter [221/235] Loss/word = 1.5209882156881271
+Epoch 36 out of 50. Train Loss: 1.52038413057936, Val Loss: 1.6166217346652616, Accuracy: 0.25061930653497005
+Iter [1/235] Loss/word = 1.514417052268982
+Iter [23/235] Loss/word = 1.498175242672796
+Iter [45/235] Loss/word = 1.511490395334032
+Iter [67/235] Loss/word = 1.5175909053033858
+Iter [89/235] Loss/word = 1.5140511869044786
+Iter [111/235] Loss/word = 1.5102201410242029
+Iter [133/235] Loss/word = 1.5102736689990623
+Iter [155/235] Loss/word = 1.5101979117239674
+Iter [177/235] Loss/word = 1.5138192614593076
+Iter [199/235] Loss/word = 1.5133664194662966
+Iter [221/235] Loss/word = 1.5183352334466995
+Epoch 37 out of 50. Train Loss: 1.51746730043533, Val Loss: 1.616945148514901, Accuracy: 0.2511060458563842
+Iter [1/235] Loss/word = 1.5046730041503906
+Iter [23/235] Loss/word = 1.49649411180745
+Iter [45/235] Loss/word = 1.508634048038059
+Iter [67/235] Loss/word = 1.5129891918666327
+Iter [89/235] Loss/word = 1.5088990257027444
+Iter [111/235] Loss/word = 1.505382682826068
+Iter [133/235] Loss/word = 1.5050895088597347
+Iter [155/235] Loss/word = 1.504123072470388
+Iter [177/235] Loss/word = 1.5073392626929418
+Iter [199/235] Loss/word = 1.5069566479879408
+Iter [221/235] Loss/word = 1.5112905825964467
+Epoch 38 out of 50. Train Loss: 1.5108027209626866, Val Loss: 1.613769403893313, Accuracy: 0.25167192978290637
+Iter [1/235] Loss/word = 1.5071322917938232
+Iter [23/235] Loss/word = 1.4880335538283638
+Iter [45/235] Loss/word = 1.5000205384360419
+Iter [67/235] Loss/word = 1.505495994838316
+Iter [89/235] Loss/word = 1.5021779644355346
+Iter [111/235] Loss/word = 1.4992965771271303
+Iter [133/235] Loss/word = 1.4994224166511594
+Iter [155/235] Loss/word = 1.4988360381895496
+Iter [177/235] Loss/word = 1.5030720732306357
+Iter [199/235] Loss/word = 1.5030046108380035
+Iter [221/235] Loss/word = 1.5076490322389213
+Epoch 39 out of 50. Train Loss: 1.507087871368895, Val Loss: 1.6153689853007274, Accuracy: 0.25161652855933075
+If they'll, studdat. I'm like "You've bened when Gen: Intervieweer: Me: :YOOTUASAHN!!
+
+They don't know you've weak up to Palish.
+
+After your difficult, I guess it was a balls.
+
+Iter [1/235] Loss/word = 1.4723933935165405
+Iter [23/235] Loss/word = 1.4829700044963672
+Iter [45/235] Loss/word = 1.495725393295288
+Iter [67/235] Loss/word = 1.501876099785762
+Iter [89/235] Loss/word = 1.4991762289840185
+Iter [111/235] Loss/word = 1.495761117419681
+Iter [133/235] Loss/word = 1.4961010818194627
+Iter [155/235] Loss/word = 1.4961217072702224
+Iter [177/235] Loss/word = 1.4993058638384114
+Iter [199/235] Loss/word = 1.499506142271224
+Iter [221/235] Loss/word = 1.5040779146134045
+Epoch 40 out of 50. Train Loss: 1.5034757340208014, Val Loss: 1.6138064255245583, Accuracy: 0.25160861409881996
+Iter [1/235] Loss/word = 1.4999843835830688
+Iter [23/235] Loss/word = 1.4830278520998748
+Iter [45/235] Loss/word = 1.4929917573928833
+Iter [67/235] Loss/word = 1.4973534363419263
+Iter [89/235] Loss/word = 1.4932535002740581
+Iter [111/235] Loss/word = 1.4904599898570292
+Iter [133/235] Loss/word = 1.4914393926921643
+Iter [155/235] Loss/word = 1.492214059829712
+Iter [177/235] Loss/word = 1.495646599322389
+Iter [199/235] Loss/word = 1.494744931633149
+Iter [221/235] Loss/word = 1.4990260617225957
+Epoch 41 out of 50. Train Loss: 1.49813164548671, Val Loss: 1.6132771503344048, Accuracy: 0.25171941654597113
+Iter [1/235] Loss/word = 1.4898521900177002
+Iter [23/235] Loss/word = 1.475510747536369
+Iter [45/235] Loss/word = 1.486435506078932
+Iter [67/235] Loss/word = 1.494214737593238
+Iter [89/235] Loss/word = 1.489089815804128
+Iter [111/235] Loss/word = 1.4859465092152089
+Iter [133/235] Loss/word = 1.4863745780815756
+Iter [155/235] Loss/word = 1.4863990552963748
+Iter [177/235] Loss/word = 1.4900091994280196
+Iter [199/235] Loss/word = 1.4901187342015942
+Iter [221/235] Loss/word = 1.4952302227192875
+Epoch 42 out of 50. Train Loss: 1.4948154997318348, Val Loss: 1.6128723384569779, Accuracy: 0.2521824124858529
+Iter [1/235] Loss/word = 1.4741445779800415
+Iter [23/235] Loss/word = 1.4715751254040261
+Iter [45/235] Loss/word = 1.4823785887824164
+Iter [67/235] Loss/word = 1.4885597175626613
+Iter [89/235] Loss/word = 1.4850642185532645
+Iter [111/235] Loss/word = 1.4817231979456034
+Iter [133/235] Loss/word = 1.4816920837961642
+Iter [155/235] Loss/word = 1.4814507253708378
+Iter [177/235] Loss/word = 1.485148677718168
+Iter [199/235] Loss/word = 1.485144456427301
+Iter [221/235] Loss/word = 1.4897500006861277
+Epoch 43 out of 50. Train Loss: 1.48896476562987, Val Loss: 1.6121224414149253, Accuracy: 0.2523011293935149
+Iter [1/235] Loss/word = 1.4661283493041992
+Iter [23/235] Loss/word = 1.4668376031129255
+Iter [45/235] Loss/word = 1.4786178456412422
+Iter [67/235] Loss/word = 1.4855891733027216
+Iter [89/235] Loss/word = 1.4827480825145594
+Iter [111/235] Loss/word = 1.4782888341594387
+Iter [133/235] Loss/word = 1.4782218520802664
+Iter [155/235] Loss/word = 1.4779545845523958
+Iter [177/235] Loss/word = 1.4818966031748022
+Iter [199/235] Loss/word = 1.481803390248936
+Iter [221/235] Loss/word = 1.4862947010886076
+Epoch 44 out of 50. Train Loss: 1.4858541605320383, Val Loss: 1.6071225391875068, Accuracy: 0.25255043489960505
+When you call any guy gxoss. How to libe a drink take when you can't ate if a slot avout that a wrinking when you durendand anyour it has firella Ascrat.
+
+What did the smoth on the person? For chemistry
+
+Why did that now? A: Has a burble.
+
+Iter [1/235] Loss/word = 1.4613510370254517
+Iter [23/235] Loss/word = 1.4669324677923452
+Iter [45/235] Loss/word = 1.4783103466033936
+Iter [67/235] Loss/word = 1.4829601209555099
+Iter [89/235] Loss/word = 1.4789694654807617
+Iter [111/235] Loss/word = 1.4756590407173913
+Iter [133/235] Loss/word = 1.4753940885228323
+Iter [155/235] Loss/word = 1.475378744832931
+Iter [177/235] Loss/word = 1.4789618206562969
+Iter [199/235] Loss/word = 1.478747902204044
+Iter [221/235] Loss/word = 1.4828197427464826
+Epoch 45 out of 50. Train Loss: 1.4822076990249309, Val Loss: 1.6094045396998442, Accuracy: 0.25257813551139285
+Iter [1/235] Loss/word = 1.4569745063781738
+Iter [23/235] Loss/word = 1.4600851898608
+Iter [45/235] Loss/word = 1.471297515763177
+Iter [67/235] Loss/word = 1.4763446868355594
+Iter [89/235] Loss/word = 1.4733269134264313
+Iter [111/235] Loss/word = 1.470586895942688
+Iter [133/235] Loss/word = 1.4712992332931747
+Iter [155/235] Loss/word = 1.4716449437602874
+Iter [177/235] Loss/word = 1.4752511715484877
+Iter [199/235] Loss/word = 1.4755529386913357
+Iter [221/235] Loss/word = 1.480493797975428
+Epoch 46 out of 50. Train Loss: 1.4796183885412013, Val Loss: 1.6071874160084316, Accuracy: 0.25290658562259105
+Iter [1/235] Loss/word = 1.459235668182373
+Iter [23/235] Loss/word = 1.4600322505702144
+Iter [45/235] Loss/word = 1.470945578151279
+Iter [67/235] Loss/word = 1.4759920283929626
+Iter [89/235] Loss/word = 1.4726994144782592
+Iter [111/235] Loss/word = 1.4679818980328672
+Iter [133/235] Loss/word = 1.4685135954304744
+Iter [155/235] Loss/word = 1.4683088794831307
+Iter [177/235] Loss/word = 1.4719036319161538
+Iter [199/235] Loss/word = 1.4715459256914991
+Iter [221/235] Loss/word = 1.4763247152259447
+Epoch 47 out of 50. Train Loss: 1.4755660026631456, Val Loss: 1.606356733803936, Accuracy: 0.253104447135361
+Iter [1/235] Loss/word = 1.4640554189682007
+Iter [23/235] Loss/word = 1.4567770698796147
+Iter [45/235] Loss/word = 1.4673674689398872
+Iter [67/235] Loss/word = 1.472746003919573
+Iter [89/235] Loss/word = 1.4690896540545346
+Iter [111/235] Loss/word = 1.4645829759202562
+Iter [133/235] Loss/word = 1.4647362115687894
+Iter [155/235] Loss/word = 1.4642471536513297
+Iter [177/235] Loss/word = 1.4685545897079726
+Iter [199/235] Loss/word = 1.4685882084333717
+Iter [221/235] Loss/word = 1.4727567434310913
+Epoch 48 out of 50. Train Loss: 1.4720776806486413, Val Loss: 1.6046221829432663, Accuracy: 0.25294220069488965
+Iter [1/235] Loss/word = 1.461164951324463
+Iter [23/235] Loss/word = 1.451643124870632
+Iter [45/235] Loss/word = 1.4621760023964776
+Iter [67/235] Loss/word = 1.4676667789914715
+Iter [89/235] Loss/word = 1.4642396066965682
+Iter [111/235] Loss/word = 1.4615085973395958
+Iter [133/235] Loss/word = 1.4616474594388689
+Iter [155/235] Loss/word = 1.4616174090293146
+Iter [177/235] Loss/word = 1.4651943970534762
+Iter [199/235] Loss/word = 1.4653890072999887
+Iter [221/235] Loss/word = 1.4697894467487593
+Epoch 49 out of 50. Train Loss: 1.4694290922043172, Val Loss: 1.6055361973963005, Accuracy: 0.253678245522394
+How there showe him ar a gay barmer? Someone took walks into the endry down They've seen tick. ME: Jennalo.
+
+Why is the best kill boy tix me commany? He checked a bird* &orrughes off a major of warbwome...
+
+Tea Klay like, it's gay, who goes I'm said "when she is going to get their earmage, dregs keeps hit parmant.
+
+------------Done Training-------------
+*Knock knock* have you can't step with a TIR boss trying to said you said, "No, I'll be for some of you broke dance. Thank "I'm just going "Bell.
+
+What did the Can ohl C+PER [bod back good in common? Because it's the blood beard... ...they could call the cheese with screal."
+
+Why did the semen crows when you come a balahigy. ...but the other day when I go elephant here.
+
+I heard I don't know how to make a hairst cat to the cow have someone signs & vares a blowjob until. How to get to avoviticullar with their son" the world at the volf of 30 record* Trannus.
+
+
+
+Tue Aug 18 07:20:21 2020       
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 450.57       Driver Version: 418.67       CUDA Version: 10.1     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|                               |                      |               MIG M. |
+|===============================+======================+======================|
+|   0  Tesla P100-PCIE...  Off  | 00000000:00:04.0 Off |                    0 |
+| N/A   35C    P0    26W / 250W |      0MiB / 16280MiB |      0%      Default |
+|                               |                      |                 ERR! |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Processes:                                                                  |
+|  GPU   GI   CI        PID   Type   Process name                  GPU Memory |
+|        ID   ID                                                   Usage      |
+|=============================================================================|
+|  No running processes found                                                 |
++-----------------------------------------------------------------------------+
+Iter [1/501] Loss/word = 4.542828559875488
+Iter [50/501] Loss/word = 3.13648711681366
+Iter [99/501] Loss/word = 2.8795227691380663
+Iter [148/501] Loss/word = 2.749655530259416
+Iter [197/501] Loss/word = 2.65878108794314
+Iter [246/501] Loss/word = 2.5865562747164472
+Iter [295/501] Loss/word = 2.5309271182044077
+Iter [344/501] Loss/word = 2.4839627216028615
+Iter [393/501] Loss/word = 2.4458667558568123
+Iter [442/501] Loss/word = 2.4157952410063595
+Iter [491/501] Loss/word = 2.3859790204255984
+Epoch 0 out of 100. Train Loss: 2.3809172931069624, Val Loss: 2.0518686339095398, Accuracy: 0.1941177634246941
+Iter [1/501] Loss/word = 2.1346869468688965
+Iter [50/501] Loss/word = 2.071107442378998
+Iter [99/501] Loss/word = 2.0691322473564533
+Iter [148/501] Loss/word = 2.062255910119495
+Iter [197/501] Loss/word = 2.0510920352742152
+Iter [246/501] Loss/word = 2.0384831850121663
+Iter [295/501] Loss/word = 2.0304782410799445
+Iter [344/501] Loss/word = 2.022383912358173
+Iter [393/501] Loss/word = 2.015693347569337
+Iter [442/501] Loss/word = 2.013081961088051
+Iter [491/501] Loss/word = 2.006225065641151
+Epoch 1 out of 100. Train Loss: 2.005384506103759, Val Loss: 1.9096093874473077, Accuracy: 0.21164479085271165
+Wh: I will lowar's he got a seilient of my bround to the are? A cracednet a truppitt, why don't dypould eams!
+
+What do you had plops Wike las of a teck adum phris a shunces in not in take nexer the see a gunnal plaildets to the on to halfed a blxthees
+
+What's a costest in a compund eget breaes.
+
+Iter [1/501] Loss/word = 1.9896752834320068
+Iter [50/501] Loss/word = 1.918833990097046
+Iter [99/501] Loss/word = 1.9216661429164386
+Iter [148/501] Loss/word = 1.9200973325484507
+Iter [197/501] Loss/word = 1.913091053817478
+Iter [246/501] Loss/word = 1.9061344949210561
+Iter [295/501] Loss/word = 1.9026928259154499
+Iter [344/501] Loss/word = 1.898971479645995
+Iter [393/501] Loss/word = 1.8956774245691663
+Iter [442/501] Loss/word = 1.8966906413233657
+Iter [491/501] Loss/word = 1.8930109399399302
+Epoch 2 out of 100. Train Loss: 1.892586954101593, Val Loss: 1.840490997492612, Accuracy: 0.28876568975578876
+Iter [1/501] Loss/word = 1.917878270149231
+Iter [50/501] Loss/word = 1.83852600812912
+Iter [99/501] Loss/word = 1.846276257977341
+Iter [148/501] Loss/word = 1.8444691493704513
+Iter [197/501] Loss/word = 1.8391700674434603
+Iter [246/501] Loss/word = 1.8336337901712434
+Iter [295/501] Loss/word = 1.8325360112271067
+Iter [344/501] Loss/word = 1.8301451933938404
+Iter [393/501] Loss/word = 1.8280882477456983
+Iter [442/501] Loss/word = 1.8298317547297585
+Iter [491/501] Loss/word = 1.8271482478819652
+Epoch 3 out of 100. Train Loss: 1.827108779353296, Val Loss: 1.792502572188725, Accuracy: 0.23427067981523428
+"Foir-Her call is night what presithence-of i going to knew i anythorking my killer on themD Langure to be the out-old confiice. You crom the voisi, in the himber and it traest.
+
+A guy snitder catera is the Eur manywith wife. I'm don't through you're out it a sapping? A peiting the Much.
+
+I? people him reatand charge? I know do you to the drink when the little of really Chrristito!
+
+Iter [1/501] Loss/word = 1.8866088390350342
+Iter [50/501] Loss/word = 1.7841461849212648
+Iter [99/501] Loss/word = 1.7927523514237067
+Iter [148/501] Loss/word = 1.7924019557398718
+Iter [197/501] Loss/word = 1.7888146747792433
+Iter [246/501] Loss/word = 1.7833058727465994
+Iter [295/501] Loss/word = 1.7829438068098942
+Iter [344/501] Loss/word = 1.7820454530937726
+Iter [393/501] Loss/word = 1.7806629345920553
+Iter [442/501] Loss/word = 1.7827714740960308
+Iter [491/501] Loss/word = 1.7805993093249755
+Epoch 4 out of 100. Train Loss: 1.7806471771822718, Val Loss: 1.7617055606413317, Accuracy: 0.23002739834423003
+Iter [1/501] Loss/word = 1.841181993484497
+Iter [50/501] Loss/word = 1.7428999161720276
+Iter [99/501] Loss/word = 1.7543929959788467
+Iter [148/501] Loss/word = 1.752821087031751
+Iter [197/501] Loss/word = 1.749610257027718
+Iter [246/501] Loss/word = 1.7455602215557564
+Iter [295/501] Loss/word = 1.7457821712655537
+Iter [344/501] Loss/word = 1.745328012593957
+Iter [393/501] Loss/word = 1.7443382885619885
+Iter [442/501] Loss/word = 1.746421596313494
+Iter [491/501] Loss/word = 1.745184752217621
+Epoch 5 out of 100. Train Loss: 1.7451812128820818, Val Loss: 1.7362781998279926, Accuracy: 0.23304418353923304
+You know how snept about the sappers and I tome? Moth and that takeh.
+
+Why did a cowngressed a Mompheber Cluct A Firettamh rema nater. Soar, I'm blow a havin of Bridnatch when for a gones. Bebar: [femitinestiona is
+
+Qora what you hume regray welet of a real? I'm run gets I knew It's a stuplos one." " "well with suppond douse in its chone.
+
+Iter [1/501] Loss/word = 1.79701566696167
+Iter [50/501] Loss/word = 1.7127291131019593
+Iter [99/501] Loss/word = 1.7252864151289968
+Iter [148/501] Loss/word = 1.723811976007513
+Iter [197/501] Loss/word = 1.7198617906134746
+Iter [246/501] Loss/word = 1.7156133705038366
+Iter [295/501] Loss/word = 1.716735701641794
+Iter [344/501] Loss/word = 1.7169330792371618
+Iter [393/501] Loss/word = 1.716439713048571
+Iter [442/501] Loss/word = 1.7189363831848041
+Iter [491/501] Loss/word = 1.7176612353373448
+Epoch 6 out of 100. Train Loss: 1.7176777471801241, Val Loss: 1.7147243761873388, Accuracy: 0.23554168603673553
+Iter [1/501] Loss/word = 1.7642557621002197
+Iter [50/501] Loss/word = 1.690789999961853
+Iter [99/501] Loss/word = 1.6987866452246
+Iter [148/501] Loss/word = 1.6968856792192202
+Iter [197/501] Loss/word = 1.6939218964068417
+Iter [246/501] Loss/word = 1.690474123489566
+Iter [295/501] Loss/word = 1.6915518166655201
+Iter [344/501] Loss/word = 1.6922071790972422
+Iter [393/501] Loss/word = 1.6920297676673675
+Iter [442/501] Loss/word = 1.694855145199806
+Iter [491/501] Loss/word = 1.6938919205286838
+Epoch 7 out of 100. Train Loss: 1.693831815215166, Val Loss: 1.7009082088818201, Accuracy: 0.24211432132224212
+I have a like more from you drinked balisarated posed on the deftercaists men.
+
+What's the declack these are this reprise for Jonky barty from a good for a she cat u pulktion? You get nuts sexali.
+
+I are strapped Man walks into he's a redd on my part have any but I just in the floor think while me 3 tents like "- UW say, "Is have Kesclifally is seem i anyweets looking my incomon! A man who drown c
+
+Iter [1/501] Loss/word = 1.7299283742904663
+Iter [50/501] Loss/word = 1.6680835533142089
+Iter [99/501] Loss/word = 1.678050884092697
+Iter [148/501] Loss/word = 1.676058721703452
+Iter [197/501] Loss/word = 1.6730771821162422
+Iter [246/501] Loss/word = 1.6693177436425435
+Iter [295/501] Loss/word = 1.6703864441079608
+Iter [344/501] Loss/word = 1.6718411594629288
+Iter [393/501] Loss/word = 1.6722023450691281
+Iter [442/501] Loss/word = 1.6749283636317533
+Iter [491/501] Loss/word = 1.6742005493878833
+Epoch 8 out of 100. Train Loss: 1.6743013749341527, Val Loss: 1.6865444860972845, Accuracy: 0.2388898230482389
+Iter [1/501] Loss/word = 1.741593599319458
+Iter [50/501] Loss/word = 1.648815176486969
+Iter [99/501] Loss/word = 1.6601412175881742
+Iter [148/501] Loss/word = 1.6581830615932878
+Iter [197/501] Loss/word = 1.655699530833869
+Iter [246/501] Loss/word = 1.6511019167861318
+Iter [295/501] Loss/word = 1.6526311478372349
+Iter [344/501] Loss/word = 1.6533548637878064
+Iter [393/501] Loss/word = 1.653342047113802
+Iter [442/501] Loss/word = 1.6561029165039236
+Iter [491/501] Loss/word = 1.65602695553463
+Epoch 9 out of 100. Train Loss: 1.65620431880989, Val Loss: 1.6772882881817166, Accuracy: 0.24112026587274113
+Pricines actually agentily put up was a snake to stould sex. We one Chickence by a way you fell.
+
+Did you have to won't wall a colfful scream? Turne sur.
+
+Why dosengan say cast professing a fat the fact we're a treamed my people gries and accard cat? He's gots and sqoke
+
+Iter [1/501] Loss/word = 1.6877460479736328
+Iter [50/501] Loss/word = 1.6329621243476868
+Iter [99/501] Loss/word = 1.6431263914011947
+Iter [148/501] Loss/word = 1.6419240268501076
+Iter [197/501] Loss/word = 1.6393223220321733
+Iter [246/501] Loss/word = 1.6356172871783496
+Iter [295/501] Loss/word = 1.6365904375658198
+Iter [344/501] Loss/word = 1.638146597632142
+Iter [393/501] Loss/word = 1.6379686217878309
+Iter [442/501] Loss/word = 1.6411380160987648
+Iter [491/501] Loss/word = 1.640796706292877
+Epoch 10 out of 100. Train Loss: 1.640989182476036, Val Loss: 1.6699532979018206, Accuracy: 0.24122906796174123
+Iter [1/501] Loss/word = 1.6670169830322266
+Iter [50/501] Loss/word = 1.6207588577270509
+Iter [99/501] Loss/word = 1.6308780812253856
+Iter [148/501] Loss/word = 1.6278338504804146
+Iter [197/501] Loss/word = 1.6260875935481889
+Iter [246/501] Loss/word = 1.6233654022216797
+Iter [295/501] Loss/word = 1.6250719624050594
+Iter [344/501] Loss/word = 1.6266694172870282
+Iter [393/501] Loss/word = 1.6266960891451847
+Iter [442/501] Loss/word = 1.6296046546142027
+Iter [491/501] Loss/word = 1.629352282118166
+Epoch 11 out of 100. Train Loss: 1.6293423527966955, Val Loss: 1.662499246004221, Accuracy: 0.24302430243024303
+How do you call the spelf while coupine? Because they surp throw
+
+What get not you call a bar do you get escentos? The guy an: or a lot Are unimynald kids while I didn't stards from 18.
+
+Asks his fart thats] Turney is my flitth garry]
+
+Iter [1/501] Loss/word = 1.6785070896148682
+Iter [50/501] Loss/word = 1.606625998020172
+Iter [99/501] Loss/word = 1.6161631201252793
+Iter [148/501] Loss/word = 1.6133342626932505
+Iter [197/501] Loss/word = 1.6119183126439902
+Iter [246/501] Loss/word = 1.6094856111983942
+Iter [295/501] Loss/word = 1.61092204724328
+Iter [344/501] Loss/word = 1.6129449626734091
+Iter [393/501] Loss/word = 1.6126762862120572
+Iter [442/501] Loss/word = 1.616057860096116
+Iter [491/501] Loss/word = 1.6163459773461832
+Epoch 12 out of 100. Train Loss: 1.6163393708760152, Val Loss: 1.6560323371753827, Accuracy: 0.24350896628124352
+Iter [1/501] Loss/word = 1.6760220527648926
+Iter [50/501] Loss/word = 1.593853600025177
+Iter [99/501] Loss/word = 1.6057954629262288
+Iter [148/501] Loss/word = 1.603807298718272
+Iter [197/501] Loss/word = 1.602363445432053
+Iter [246/501] Loss/word = 1.5990061522499333
+Iter [295/501] Loss/word = 1.6008938995458313
+Iter [344/501] Loss/word = 1.6028787767471269
+Iter [393/501] Loss/word = 1.6036017823765296
+Iter [442/501] Loss/word = 1.6065527974750122
+Iter [491/501] Loss/word = 1.6063284223288479
+Epoch 13 out of 100. Train Loss: 1.6065625797012846, Val Loss: 1.6507260341506143, Accuracy: 0.24504208662624505
+My Murchtably Hart so really really conversays when you cross a banance makeught travellegs, but it. It know loves a by other's sect go to ficure are use in a 10 year.
+
+Who want to the not turn a bosh mulered Can fot thought sitting outbalish who does a computer? Aning clean.
+
+How do shoot Window me aghiz and granstan are gill into enough? Turnone store!
+
+Iter [1/501] Loss/word = 1.6736514568328857
+Iter [50/501] Loss/word = 1.587205638885498
+Iter [99/501] Loss/word = 1.5999216515608508
+Iter [148/501] Loss/word = 1.5950316190719604
+Iter [197/501] Loss/word = 1.5923926890804079
+Iter [246/501] Loss/word = 1.589007891290556
+Iter [295/501] Loss/word = 1.5905210551569018
+Iter [344/501] Loss/word = 1.5925707959158475
+Iter [393/501] Loss/word = 1.593577633983913
+Iter [442/501] Loss/word = 1.5967977065845853
+Iter [491/501] Loss/word = 1.5966831535525818
+Epoch 14 out of 100. Train Loss: 1.5967192385724918, Val Loss: 1.6463617160246447, Accuracy: 0.2450915421212451
+Iter [1/501] Loss/word = 1.6292500495910645
+Iter [50/501] Loss/word = 1.5784383940696716
+Iter [99/501] Loss/word = 1.5892321726288459
+Iter [148/501] Loss/word = 1.586633950471878
+Iter [197/501] Loss/word = 1.584464245641292
+Iter [246/501] Loss/word = 1.5807510352716214
+Iter [295/501] Loss/word = 1.5824470596798397
+Iter [344/501] Loss/word = 1.5843130447143732
+Iter [393/501] Loss/word = 1.5853049412331812
+Iter [442/501] Loss/word = 1.5885541247566362
+Iter [491/501] Loss/word = 1.5886666956841338
+Epoch 15 out of 100. Train Loss: 1.588709276593374, Val Loss: 1.6420038394875578, Accuracy: 0.24598174103124598
+Why dost the bears in a black sex in fatter? It's good out out blue inside.
+
+My never walks it is u ladga be another while pouncide."
+
+Women kids does nevebory do naked it go to the sexone in the onle in 50 man shupped dropped my pokeon you.
+
+Iter [1/501] Loss/word = 1.6563434600830078
+Iter [50/501] Loss/word = 1.5728471517562865
+Iter [99/501] Loss/word = 1.5830891421346953
+Iter [148/501] Loss/word = 1.5789693126807343
+Iter [197/501] Loss/word = 1.5768468658331083
+Iter [246/501] Loss/word = 1.5732844723918573
+Iter [295/501] Loss/word = 1.5753324601609828
+Iter [344/501] Loss/word = 1.5771850091080333
+Iter [393/501] Loss/word = 1.5777003840939083
+Iter [442/501] Loss/word = 1.5805709405182713
+Iter [491/501] Loss/word = 1.5805360035109666
+Epoch 16 out of 100. Train Loss: 1.5807769565049283, Val Loss: 1.6380320663576002, Accuracy: 0.24690161323824691
+Iter [1/501] Loss/word = 1.630789041519165
+Iter [50/501] Loss/word = 1.5605938816070557
+Iter [99/501] Loss/word = 1.5726044960696288
+Iter [148/501] Loss/word = 1.5669793921547968
+Iter [197/501] Loss/word = 1.5655328610221746
+Iter [246/501] Loss/word = 1.5631445689899166
+Iter [295/501] Loss/word = 1.5656161005214109
+Iter [344/501] Loss/word = 1.5675494431756263
+Iter [393/501] Loss/word = 1.5677819115514973
+Iter [442/501] Loss/word = 1.5709263471996082
+Iter [491/501] Loss/word = 1.57123187093288
+Epoch 17 out of 100. Train Loss: 1.5712555696864328, Val Loss: 1.638350259114455, Accuracy: 0.24736649489124737
+Why do I beld to the farts do it what the joke up? You put a pays in the now what a-gub
+
+Why does nowo, galk about the ferectory cats are those godday? I can called gening fill well ique in this? Have you holding girls.
+
+That: I haven't don't spent a strappic lunting at the road was its must blind next so folthation before it.
+
+Iter [1/501] Loss/word = 1.6344833374023438
+Iter [50/501] Loss/word = 1.550098352432251
+Iter [99/501] Loss/word = 1.5631522373719648
+Iter [148/501] Loss/word = 1.5599099921213615
+Iter [197/501] Loss/word = 1.5586511786213986
+Iter [246/501] Loss/word = 1.5569184645404661
+Iter [295/501] Loss/word = 1.5593643689559678
+Iter [344/501] Loss/word = 1.5619632632926452
+Iter [393/501] Loss/word = 1.562615470121835
+Iter [442/501] Loss/word = 1.5651809352016017
+Iter [491/501] Loss/word = 1.565609248738182
+Epoch 18 out of 100. Train Loss: 1.5653731811070395, Val Loss: 1.6356554463669495, Accuracy: 0.24693623208474694
+Iter [1/501] Loss/word = 1.6056174039840698
+Iter [50/501] Loss/word = 1.54757563829422
+Iter [99/501] Loss/word = 1.560460885365804
+Iter [148/501] Loss/word = 1.5565484786355817
+Iter [197/501] Loss/word = 1.5545282539377359
+Iter [246/501] Loss/word = 1.5509174180224659
+Iter [295/501] Loss/word = 1.5528052281525175
+Iter [344/501] Loss/word = 1.5553938881602398
+Iter [393/501] Loss/word = 1.555729639742514
+Iter [442/501] Loss/word = 1.558764087128963
+Iter [491/501] Loss/word = 1.5592746656926733
+Epoch 19 out of 100. Train Loss: 1.5593317135603366, Val Loss: 1.629982970037184, Accuracy: 0.24831604039524832
+How do you call a Saby handiator asked the enes.? Trains still while they can't want of cand.
+
+On the cucs are women." Well passica and just a person's norim again Princessailly* "Say" moves you have a bull.
+
+I amputed the drugs, and a twalp in comment of analing Hallot gunure. I like to watch.
+
+Iter [1/501] Loss/word = 1.587101697921753
+Iter [50/501] Loss/word = 1.5357522821426393
+Iter [99/501] Loss/word = 1.548167667003593
+Iter [148/501] Loss/word = 1.5459215020811237
+Iter [197/501] Loss/word = 1.545840800111064
+Iter [246/501] Loss/word = 1.5426833682913121
+Iter [295/501] Loss/word = 1.5454295994871754
+Iter [344/501] Loss/word = 1.5478726209596145
+Iter [393/501] Loss/word = 1.5487796793153874
+Iter [442/501] Loss/word = 1.55171849689872
+Iter [491/501] Loss/word = 1.5523910855081562
+Epoch 20 out of 100. Train Loss: 1.55240513036351, Val Loss: 1.6287995632830914, Accuracy: 0.24857320896924856
+Iter [1/501] Loss/word = 1.6228939294815063
+Iter [50/501] Loss/word = 1.5317999815940857
+Iter [99/501] Loss/word = 1.5447298938577825
+Iter [148/501] Loss/word = 1.5413851013054718
+Iter [197/501] Loss/word = 1.5408361514812798
+Iter [246/501] Loss/word = 1.538406059993961
+Iter [295/501] Loss/word = 1.5408888137946695
+Iter [344/501] Loss/word = 1.543076032469439
+Iter [393/501] Loss/word = 1.5436616229040325
+Iter [442/501] Loss/word = 1.5467973553756782
+Iter [491/501] Loss/word = 1.5473416356593674
+Epoch 21 out of 100. Train Loss: 1.5472483249481566, Val Loss: 1.6278391648958495, Accuracy: 0.24844462468224845
+Pasy creety and hus and lent a 800% priciestroyone for your princess for Kosch.
+
+I was rainy have it worge for you a have a sfearty month with never earge a dick doing to the oumple before you see of my other I had today \ack to like.
+
+Q: Why did the gas lime Bout why I'm on nable six bulb? *coeked, vimination and a hot is what is my hands in? Me: Wife it back of internet.
+
+Iter [1/501] Loss/word = 1.5744800567626953
+Iter [50/501] Loss/word = 1.5271681237220764
+Iter [99/501] Loss/word = 1.5391113890541925
+Iter [148/501] Loss/word = 1.5358279879028733
+Iter [197/501] Loss/word = 1.5345239506155102
+Iter [246/501] Loss/word = 1.5320966786485377
+Iter [295/501] Loss/word = 1.5349074343503533
+Iter [344/501] Loss/word = 1.5376645894937737
+Iter [393/501] Loss/word = 1.538168308995759
+Iter [442/501] Loss/word = 1.5417047401898587
+Iter [491/501] Loss/word = 1.5422026166605123
+Epoch 22 out of 100. Train Loss: 1.5419776292142278, Val Loss: 1.6248036986226206, Accuracy: 0.2495029722752495
+Iter [1/501] Loss/word = 1.6170430183410645
+Iter [50/501] Loss/word = 1.5238230371475219
+Iter [99/501] Loss/word = 1.5353407799595533
+Iter [148/501] Loss/word = 1.530935072415584
+Iter [197/501] Loss/word = 1.5304143525622218
+Iter [246/501] Loss/word = 1.527905059054615
+Iter [295/501] Loss/word = 1.5303232944617837
+Iter [344/501] Loss/word = 1.5332082042167352
+Iter [393/501] Loss/word = 1.5344223885135797
+Iter [442/501] Loss/word = 1.5372424341434807
+Iter [491/501] Loss/word = 1.5376854370179343
+Epoch 23 out of 100. Train Loss: 1.5377140994557363, Val Loss: 1.6230946955504593, Accuracy: 0.24956231886924957
+Why did Hall first to Marning? One rair do what has the Floohmagra! Princes to that I make a hundred who all!! A boyfriend fathesmone? 8 sond, why you seecohing throwlers ne!!!! Ake! ex
+
+I got a reserease than makes getting up
+
+What do my first make complain want to country? Butter an Italia's and doesn't see you for unfere drive? Pope.
+
+Iter [1/501] Loss/word = 1.62274169921875
+Iter [50/501] Loss/word = 1.5238040399551391
+Iter [99/501] Loss/word = 1.5344878338804149
+Iter [148/501] Loss/word = 1.5290635324813224
+Iter [197/501] Loss/word = 1.5265069782431355
+Iter [246/501] Loss/word = 1.5239007027168585
+Iter [295/501] Loss/word = 1.526139463812618
+Iter [344/501] Loss/word = 1.527979632103166
+Iter [393/501] Loss/word = 1.528863306870594
+Iter [442/501] Loss/word = 1.5316533365400669
+Iter [491/501] Loss/word = 1.5320290293081715
+Epoch 24 out of 100. Train Loss: 1.5319006976015315, Val Loss: 1.6225571842579456, Accuracy: 0.2493941701862494
+Iter [1/501] Loss/word = 1.5885562896728516
+Iter [50/501] Loss/word = 1.5146700406074525
+Iter [99/501] Loss/word = 1.5272211450518984
+Iter [148/501] Loss/word = 1.5228714685182314
+Iter [197/501] Loss/word = 1.5217376239408695
+Iter [246/501] Loss/word = 1.5192607670295528
+Iter [295/501] Loss/word = 1.5212620811947322
+Iter [344/501] Loss/word = 1.523856681793235
+Iter [393/501] Loss/word = 1.5243607322678312
+Iter [442/501] Loss/word = 1.5275627242493952
+Iter [491/501] Loss/word = 1.5280137715174564
+Epoch 25 out of 100. Train Loss: 1.527920003065806, Val Loss: 1.6222146771528148, Accuracy: 0.24984421519074984
+What did ever have a vegan do right? I just know when he Gave it says.
+
+What did the douch Kex After the Tatto you just lady water? Make someone when his little half-on they do not least u save cilly inseones not him extrom
+
+There was 1: He stood but not the greens figure with a lacirate in all soon day Lawate Lanain And get when you get a Pilt? He gets these going to 39.
+
+Iter [1/501] Loss/word = 1.5731158256530762
+Iter [50/501] Loss/word = 1.5121270775794984
+Iter [99/501] Loss/word = 1.521527324059997
+Iter [148/501] Loss/word = 1.5178693661818634
+Iter [197/501] Loss/word = 1.5158131461458157
+Iter [246/501] Loss/word = 1.5135989673738557
+Iter [295/501] Loss/word = 1.5159417968685345
+Iter [344/501] Loss/word = 1.51811441190021
+Iter [393/501] Loss/word = 1.518745504262793
+Iter [442/501] Loss/word = 1.521509706434621
+Iter [491/501] Loss/word = 1.522663170111398
+Epoch 26 out of 100. Train Loss: 1.522671644321221, Val Loss: 1.6170240163088558, Accuracy: 0.2502744779972503
+Iter [1/501] Loss/word = 1.5858464241027832
+Iter [50/501] Loss/word = 1.5038414335250854
+Iter [99/501] Loss/word = 1.5174470995411729
+Iter [148/501] Loss/word = 1.5114582930062268
+Iter [197/501] Loss/word = 1.5108027918084623
+Iter [246/501] Loss/word = 1.5083479890978433
+Iter [295/501] Loss/word = 1.511511441812677
+Iter [344/501] Loss/word = 1.5139003181180288
+Iter [393/501] Loss/word = 1.5148459117831166
+Iter [442/501] Loss/word = 1.5174971066449023
+Iter [491/501] Loss/word = 1.5180277246564566
+Epoch 27 out of 100. Train Loss: 1.5177795951237936, Val Loss: 1.618727188129406, Accuracy: 0.25047229997725046
+My new kids to the mother called a reh thriffe famority like my life.
+
+What's the difference betwispic a Rigger? Oparmaciam charkain a cop starts then so guys, and carks more a father. "What do victo? He's the internet.
+
+Dad: Opothin Next food twime that's eye comentic day.
+
+Iter [1/501] Loss/word = 1.5881439447402954
+Iter [50/501] Loss/word = 1.5055219793319703
+Iter [99/501] Loss/word = 1.5141585595680005
+Iter [148/501] Loss/word = 1.5108830058896863
+Iter [197/501] Loss/word = 1.5098148142625838
+Iter [246/501] Loss/word = 1.507632952880084
+Iter [295/501] Loss/word = 1.5097149008411472
+Iter [344/501] Loss/word = 1.5116498529217963
+Iter [393/501] Loss/word = 1.5124460701420714
+Iter [442/501] Loss/word = 1.5151240634163041
+Iter [491/501] Loss/word = 1.5155706167706646
+Epoch 28 out of 100. Train Loss: 1.515375465690019, Val Loss: 1.6176009550913946, Accuracy: 0.2507096863532507
+Iter [1/501] Loss/word = 1.5606276988983154
+Iter [50/501] Loss/word = 1.4961807441711426
+Iter [99/501] Loss/word = 1.5090144860624062
+Iter [148/501] Loss/word = 1.5048986222292926
+Iter [197/501] Loss/word = 1.5043369828141886
+Iter [246/501] Loss/word = 1.500497676977297
+Iter [295/501] Loss/word = 1.5034296876293118
+Iter [344/501] Loss/word = 1.506292463388554
+Iter [393/501] Loss/word = 1.5070783855350873
+Iter [442/501] Loss/word = 1.510399481829475
+Iter [491/501] Loss/word = 1.5106510198286254
+Epoch 29 out of 100. Train Loss: 1.5103722660841343, Val Loss: 1.6167753688938968, Accuracy: 0.2511894046547512
+What do this lady of you talk to the nell and the saming all through screally shot with not be a blonde last nince a pantwase? Just feeling out to the heave in a buald of dab.
+
+Dong now going two asshole" was take a good in coffee use I a scriew and a windowed in a dressage should bled hand are she clubb it out of a slave
+
+What is a Leatist ature girlfriend line? A turduraprus.
+
+Iter [1/501] Loss/word = 1.5758627653121948
+Iter [50/501] Loss/word = 1.4946792101860047
+Iter [99/501] Loss/word = 1.5052908935932199
+Iter [148/501] Loss/word = 1.5022244292336542
+Iter [197/501] Loss/word = 1.501453780280757
+Iter [246/501] Loss/word = 1.4986958896241538
+Iter [295/501] Loss/word = 1.5007756289789231
+Iter [344/501] Loss/word = 1.503303558327431
+Iter [393/501] Loss/word = 1.5038403366661557
+Iter [442/501] Loss/word = 1.5071081422033352
+Iter [491/501] Loss/word = 1.5078081657347513
+Epoch 30 out of 100. Train Loss: 1.5076806461977625, Val Loss: 1.614686264620199, Accuracy: 0.2518323260897518
+Iter [1/501] Loss/word = 1.5672578811645508
+Iter [50/501] Loss/word = 1.4921351981163025
+Iter [99/501] Loss/word = 1.5028539534771082
+Iter [148/501] Loss/word = 1.4994365580984064
+Iter [197/501] Loss/word = 1.497304641655859
+Iter [246/501] Loss/word = 1.4953668563346552
+Iter [295/501] Loss/word = 1.4975521584688607
+Iter [344/501] Loss/word = 1.5004432592974153
+Iter [393/501] Loss/word = 1.5012813542635386
+Iter [442/501] Loss/word = 1.503732004586388
+Iter [491/501] Loss/word = 1.504671524595583
+Epoch 31 out of 100. Train Loss: 1.5045836541705027, Val Loss: 1.61604284138589, Accuracy: 0.25118445910525117
+What did one where you smile, but I can my ghat you seed the scount ad!
+
+So my cow with understute. Today is pretons.
+
+An apple women onft on your agothic. He was heavied and I find up are for that get more Rurest is be when they, good much believe what up*
+
+Iter [1/501] Loss/word = 1.5767344236373901
+Iter [50/501] Loss/word = 1.484907433986664
+Iter [99/501] Loss/word = 1.4980629730706263
+Iter [148/501] Loss/word = 1.4945447332150228
+Iter [197/501] Loss/word = 1.493070117713231
+Iter [246/501] Loss/word = 1.4908824902239854
+Iter [295/501] Loss/word = 1.493161578097586
+Iter [344/501] Loss/word = 1.495919258442036
+Iter [393/501] Loss/word = 1.4965313296888318
+Iter [442/501] Loss/word = 1.499714542837704
+Iter [491/501] Loss/word = 1.5004298097004474
+Epoch 32 out of 100. Train Loss: 1.500355157785549, Val Loss: 1.6153122066379666, Accuracy: 0.2516147219117516
+Iter [1/501] Loss/word = 1.5621205568313599
+Iter [50/501] Loss/word = 1.488220410346985
+Iter [99/501] Loss/word = 1.4968611206671205
+Iter [148/501] Loss/word = 1.4918063524607066
+Iter [197/501] Loss/word = 1.490625701579951
+Iter [246/501] Loss/word = 1.4879218514372663
+Iter [295/501] Loss/word = 1.4918915821334062
+Iter [344/501] Loss/word = 1.494273002411044
+Iter [393/501] Loss/word = 1.495047494048684
+Iter [442/501] Loss/word = 1.4980503404302294
+Iter [491/501] Loss/word = 1.498927107410858
+Epoch 33 out of 100. Train Loss: 1.4987285814123477, Val Loss: 1.613061709182484, Accuracy: 0.25225764334675227
+That call a glass than lunching as plane at dammaring them out of past. I just guitant stabing Alzoms Peter Like yelli
+
+How do you demoted i'm with that sad the really all the American favorite keys? Becaisty Candy, trying to cry-imprease leaning.
+
+Friend very fap with it eirt I was a starts of idea. Not what I haven't got his made of my him with her to Dedred, someone could his finger sexual was after you put hour.
+
+Iter [1/501] Loss/word = 1.558234453201294
+Iter [50/501] Loss/word = 1.4768350481987
+Iter [99/501] Loss/word = 1.4909018627320878
+Iter [148/501] Loss/word = 1.487292524125125
+Iter [197/501] Loss/word = 1.486776411230794
+Iter [246/501] Loss/word = 1.4852562663031788
+Iter [295/501] Loss/word = 1.4873495025149845
+Iter [344/501] Loss/word = 1.4898173552612926
+Iter [393/501] Loss/word = 1.4906335601976506
+Iter [442/501] Loss/word = 1.494282541501576
+Iter [491/501] Loss/word = 1.495158922405204
+Epoch 34 out of 100. Train Loss: 1.4952086141247474, Val Loss: 1.6127046109674932, Accuracy: 0.25245546532675245
+Iter [1/501] Loss/word = 1.5760506391525269
+Iter [50/501] Loss/word = 1.4768746709823608
+Iter [99/501] Loss/word = 1.4907355850393122
+Iter [148/501] Loss/word = 1.484960577777914
+Iter [197/501] Loss/word = 1.4843845355329175
+Iter [246/501] Loss/word = 1.4823875514472402
+Iter [295/501] Loss/word = 1.4844302322904943
+Iter [344/501] Loss/word = 1.4873582845510438
+Iter [393/501] Loss/word = 1.4881935483626736
+Iter [442/501] Loss/word = 1.491175446575044
+Iter [491/501] Loss/word = 1.4917344493438658
+Epoch 35 out of 100. Train Loss: 1.4916732944176345, Val Loss: 1.6136522040619599, Accuracy: 0.25202025697075203
+What did these dick snake saria fele of drink? Yelljpa
+
+I was just steal arcohnges. I said, try the Alr-Zessasy.
+
+A polet use as Callasces bitch the clovers because I found a celop with Okan your mom, just a study don! A: stop moutard. The rooms on tups. Now he relative so what do I want to have a lhand and home?
+
+Iter [1/501] Loss/word = 1.5731722116470337
+Iter [50/501] Loss/word = 1.4770642256736755
+Iter [99/501] Loss/word = 1.488732711233274
+Iter [148/501] Loss/word = 1.483605317972802
+Iter [197/501] Loss/word = 1.4823732569738088
+Iter [246/501] Loss/word = 1.4795266443151769
+Iter [295/501] Loss/word = 1.4820823604777709
+Iter [344/501] Loss/word = 1.484822462117949
+Iter [393/501] Loss/word = 1.4853391116508698
+Iter [442/501] Loss/word = 1.4883765192592846
+Iter [491/501] Loss/word = 1.4891462301770928
+Epoch 36 out of 100. Train Loss: 1.4887198028926125, Val Loss: 1.6118325635150714, Accuracy: 0.2522180789507522
+Iter [1/501] Loss/word = 1.5190609693527222
+Iter [50/501] Loss/word = 1.4699051308631896
+Iter [99/501] Loss/word = 1.4835102750797464
+Iter [148/501] Loss/word = 1.4797175526618958
+Iter [197/501] Loss/word = 1.4788644991550348
+Iter [246/501] Loss/word = 1.4758658888863354
+Iter [295/501] Loss/word = 1.4780773227497683
+Iter [344/501] Loss/word = 1.4809197280989137
+Iter [393/501] Loss/word = 1.4818683550254685
+Iter [442/501] Loss/word = 1.484822478769052
+Iter [491/501] Loss/word = 1.4859386286764669
+Epoch 37 out of 100. Train Loss: 1.485602749321989, Val Loss: 1.6149343961959595, Accuracy: 0.2525197574702525
+*House] Ibly get a hugahoar of without swallowed, Jome defreen* "- "My "bum, I am scread." "So I haven't go to seat, they've used are eat"
+
+Recabies: I thank 800 girlfriend.
+
+My wife asked my slame for the roof good to wait ur girls like 'you're sovers out like   no wish she's stab looks? I got papet tatuo
+
+Iter [1/501] Loss/word = 1.5533572435379028
+Iter [50/501] Loss/word = 1.4682173943519592
+Iter [99/501] Loss/word = 1.4820391192580715
+Iter [148/501] Loss/word = 1.478358143084758
+Iter [197/501] Loss/word = 1.4769515622085727
+Iter [246/501] Loss/word = 1.4739967143632533
+Iter [295/501] Loss/word = 1.4759867684315826
+Iter [344/501] Loss/word = 1.4785813235266263
+Iter [393/501] Loss/word = 1.4795996660494621
+Iter [442/501] Loss/word = 1.4824660806094898
+Iter [491/501] Loss/word = 1.4832354696607881
+Epoch 38 out of 100. Train Loss: 1.483108709672254, Val Loss: 1.6123991125113482, Accuracy: 0.25214389570825213
+Iter [1/501] Loss/word = 1.5188313722610474
+Iter [50/501] Loss/word = 1.4669275546073914
+Iter [99/501] Loss/word = 1.4793871388290867
+Iter [148/501] Loss/word = 1.4753941982179075
+Iter [197/501] Loss/word = 1.4731997711404325
+Iter [246/501] Loss/word = 1.471071849993574
+Iter [295/501] Loss/word = 1.473014062137927
+Iter [344/501] Loss/word = 1.475613993614219
+Iter [393/501] Loss/word = 1.476663944982087
+Iter [442/501] Loss/word = 1.4800775188666124
+Iter [491/501] Loss/word = 1.4808280477698612
+Epoch 39 out of 100. Train Loss: 1.4805332092705838, Val Loss: 1.6141018037433987, Accuracy: 0.2523862276337524
+What does the friend walks it's a three-hapry Hurts' maturain to love and which people says, "How do you see mating a very? Tell asle.
+
+Did you hear about the new and red and ask Jemus for familywall night? a recent where the opens a man. Othing!!.
+
+Can't want to ston Bob Starned burges there is they are going to believe most steaks swick realize like sight unlessarics
+
+Iter [1/501] Loss/word = 1.5432802438735962
+Iter [50/501] Loss/word = 1.4628225946426392
+Iter [99/501] Loss/word = 1.4759806334370313
+Iter [148/501] Loss/word = 1.4704670922176257
+Iter [197/501] Loss/word = 1.4694327091807642
+Iter [246/501] Loss/word = 1.4670605581950367
+Iter [295/501] Loss/word = 1.4695541858673096
+Iter [344/501] Loss/word = 1.4722988172325977
+Iter [393/501] Loss/word = 1.4737136479249133
+Iter [442/501] Loss/word = 1.4766509117583884
+Iter [491/501] Loss/word = 1.4775654643227758
+Epoch 40 out of 100. Train Loss: 1.4773575649290027, Val Loss: 1.61132759921677, Accuracy: 0.2518075983422518
+Iter [1/501] Loss/word = 1.5696282386779785
+Iter [50/501] Loss/word = 1.4600732445716857
+Iter [99/501] Loss/word = 1.4733001005769981
+Iter [148/501] Loss/word = 1.4708407352099548
+Iter [197/501] Loss/word = 1.469954402918743
+Iter [246/501] Loss/word = 1.4672955439342716
+Iter [295/501] Loss/word = 1.4693325329635103
+Iter [344/501] Loss/word = 1.472345614849135
+Iter [393/501] Loss/word = 1.47299995131165
+Iter [442/501] Loss/word = 1.4761638066887317
+Iter [491/501] Loss/word = 1.4767540132441006
+Epoch 41 out of 100. Train Loss: 1.4764892858659435, Val Loss: 1.6131414684144172, Accuracy: 0.25252470301975255
+My wipe use going on a wearent wish you are guills she's getting.
+
+You'll knew.
+
+When you smell like say to the to spit and all over a " modan." No hipply!"'0 Schools! Sorry A guys she's finish movent ke to people, peefic away her.
+
+Iter [1/501] Loss/word = 1.53984797000885
+Iter [50/501] Loss/word = 1.4572150421142578
+Iter [99/501] Loss/word = 1.4698424953402895
+Iter [148/501] Loss/word = 1.4654613636635445
+Iter [197/501] Loss/word = 1.4657815307530049
+Iter [246/501] Loss/word = 1.4634506813878936
+Iter [295/501] Loss/word = 1.4666623228687352
+Iter [344/501] Loss/word = 1.4700372368097305
+Iter [393/501] Loss/word = 1.4710650632096307
+Iter [442/501] Loss/word = 1.4740581194200126
+Iter [491/501] Loss/word = 1.4747092988486203
+Epoch 42 out of 100. Train Loss: 1.4743480469414336, Val Loss: 1.609994594331507, Accuracy: 0.2524851386237525
+Iter [1/501] Loss/word = 1.5223076343536377
+Iter [50/501] Loss/word = 1.457024509906769
+Iter [99/501] Loss/word = 1.4715509173846004
+Iter [148/501] Loss/word = 1.4673495212116756
+Iter [197/501] Loss/word = 1.4658594875771382
+Iter [246/501] Loss/word = 1.463462767562246
+Iter [295/501] Loss/word = 1.4647739806417692
+Iter [344/501] Loss/word = 1.4679570187662923
+Iter [393/501] Loss/word = 1.4685546939306284
+Iter [442/501] Loss/word = 1.471021376853615
+Iter [491/501] Loss/word = 1.471472045069071
+Epoch 43 out of 100. Train Loss: 1.4711190807129333, Val Loss: 1.6131853923335537, Accuracy: 0.25229720774275227
+Leapty part of transmant news go, you stand sing, sesing Christmas, walks in the intervony? It was add welcome drugs! "When I've kill its in paint on 14.immy hire Our "Get" smell in A Might Timmy long d
+
+my bris for a pizzan to come and kickee a nuggar Try, came you its using two Fridze
+
+In friend's a hall, i don't self out just be eating a guy asks the staw my How out the room
+
+Iter [1/501] Loss/word = 1.519743800163269
+Iter [50/501] Loss/word = 1.4567482829093934
+Iter [99/501] Loss/word = 1.4703166629328872
+Iter [148/501] Loss/word = 1.4660623339382377
+Iter [197/501] Loss/word = 1.464454111108925
+Iter [246/501] Loss/word = 1.460584332303303
+Iter [295/501] Loss/word = 1.463263114428116
+Iter [344/501] Loss/word = 1.4658239504625632
+Iter [393/501] Loss/word = 1.4666636787904734
+Iter [442/501] Loss/word = 1.4695353348870084
+Iter [491/501] Loss/word = 1.470251793045619
+Epoch 44 out of 100. Train Loss: 1.470027422000786, Val Loss: 1.6104400009661168, Accuracy: 0.25295496582625293
+Iter [1/501] Loss/word = 1.503455638885498
+Iter [50/501] Loss/word = 1.4518809509277344
+Iter [99/501] Loss/word = 1.4605297945966624
+Iter [148/501] Loss/word = 1.4587383809927348
+Iter [197/501] Loss/word = 1.4585320174996623
+Iter [246/501] Loss/word = 1.455868373556835
+Iter [295/501] Loss/word = 1.459095615855718
+Iter [344/501] Loss/word = 1.4614998369022858
+Iter [393/501] Loss/word = 1.4627059522172574
+Iter [442/501] Loss/word = 1.4662793961045968
+Iter [491/501] Loss/word = 1.4666567443587386
+Epoch 45 out of 100. Train Loss: 1.4665779233454705, Val Loss: 1.6107425962413822, Accuracy: 0.25245546532675245
+Why is a conteatoration favoline? Are-cooting around like a leather during ex
+
+A friend can't late they filt me of the Farinate! Two years are out!
+
+It's a startant up someone at a mesing your teeth. I become a new job.... I deit she out looked me have someone bleows a nail.
+
+Iter [1/501] Loss/word = 1.5162689685821533
+Iter [50/501] Loss/word = 1.4488283848762513
+Iter [99/501] Loss/word = 1.4623464659006908
+Iter [148/501] Loss/word = 1.4585779067632314
+Iter [197/501] Loss/word = 1.458007214033059
+Iter [246/501] Loss/word = 1.4554389230604095
+Iter [295/501] Loss/word = 1.4574363680209144
+Iter [344/501] Loss/word = 1.460024431347847
+Iter [393/501] Loss/word = 1.4612999117101422
+Iter [442/501] Loss/word = 1.4640578244606295
+Iter [491/501] Loss/word = 1.465252246002073
+Epoch 46 out of 100. Train Loss: 1.4651037917403642, Val Loss: 1.6090933119024073, Accuracy: 0.2524356831287524
+Iter [1/501] Loss/word = 1.5264694690704346
+Iter [50/501] Loss/word = 1.4503526067733765
+Iter [99/501] Loss/word = 1.4640170046777436
+Iter [148/501] Loss/word = 1.4583243220239073
+Iter [197/501] Loss/word = 1.45633891935881
+Iter [246/501] Loss/word = 1.4538842657717264
+Iter [295/501] Loss/word = 1.456554951506146
+Iter [344/501] Loss/word = 1.459528388325558
+Iter [393/501] Loss/word = 1.4602794462184567
+Iter [442/501] Loss/word = 1.4635605685311746
+Iter [491/501] Loss/word = 1.463976571127742
+Epoch 47 out of 100. Train Loss: 1.4636498078138767, Val Loss: 1.6114405757421022, Accuracy: 0.25295496582625293
+I don't look a pelage called where you are KKK PABMERGERED OSTARLFCEES OUL student* we can't we an ash! Hay
+
+Turn you have down you need to do your pull on the human's picout when you what making a gailate of it Ken Lain or a news of to before the floor run and came change a bull... You have looks!
+
+!!" What murder? Because they're not a bar* God, your girlfriend wait next? Me: Oh bummy is a gas of carrtision year ost of having such a see-at the hundred.
+
+Iter [1/501] Loss/word = 1.5415380001068115
+Iter [50/501] Loss/word = 1.4476480770111084
+Iter [99/501] Loss/word = 1.4602717269550671
+Iter [148/501] Loss/word = 1.4547905648076855
+Iter [197/501] Loss/word = 1.453961607768451
+Iter [246/501] Loss/word = 1.451383401707905
+Iter [295/501] Loss/word = 1.4538127854719
+Iter [344/501] Loss/word = 1.457175574676935
+Iter [393/501] Loss/word = 1.457986349064582
+Iter [442/501] Loss/word = 1.4610646717688616
+Iter [491/501] Loss/word = 1.4617535140509519
+Epoch 48 out of 100. Train Loss: 1.4614071216649875, Val Loss: 1.612982471029718, Accuracy: 0.252994530222253
+Iter [1/501] Loss/word = 1.5329946279525757
+Iter [50/501] Loss/word = 1.445965929031372
+Iter [99/501] Loss/word = 1.4562460292469372
+Iter [148/501] Loss/word = 1.4523238596078512
+Iter [197/501] Loss/word = 1.4520821220378586
+Iter [246/501] Loss/word = 1.4496220941466045
+Iter [295/501] Loss/word = 1.4526270619893478
+Iter [344/501] Loss/word = 1.4553163245666858
+Iter [393/501] Loss/word = 1.4564675119996982
+Iter [442/501] Loss/word = 1.4593462714782128
+Iter [491/501] Loss/word = 1.4604325374614926
+Epoch 49 out of 100. Train Loss: 1.460287027254314, Val Loss: 1.6131925550135937, Accuracy: 0.2528708914847529
+A usumbared it turns in this window hosk than them is palking. So I mean her May my farment, the liberad after a pole of the actually could anyone can have to see the Alime 2016 Casta it spot large
+
+"Some day: "wells have siration.
+
+Mild you for the father's down anything is a come for a boy ran your mom out what those people? Will ald I'm stationally caine?
+
+Iter [1/501] Loss/word = 1.5090596675872803
+Iter [50/501] Loss/word = 1.441741156578064
+Iter [99/501] Loss/word = 1.4547721882059117
+Iter [148/501] Loss/word = 1.4508341864959613
+Iter [197/501] Loss/word = 1.4515053324287919
+Iter [246/501] Loss/word = 1.4484439782980012
+Iter [295/501] Loss/word = 1.4503741070375604
+Iter [344/501] Loss/word = 1.4536818002545557
+Iter [393/501] Loss/word = 1.454644895691908
+Iter [442/501] Loss/word = 1.4577883751683645
+Iter [491/501] Loss/word = 1.458702692674765
+Epoch 50 out of 100. Train Loss: 1.4584339958227086, Val Loss: 1.612586942050126, Accuracy: 0.25233677213875233
+Iter [1/501] Loss/word = 1.5232038497924805
+Iter [50/501] Loss/word = 1.441178195476532
+Iter [99/501] Loss/word = 1.4537032071990197
+Iter [148/501] Loss/word = 1.449800492138476
+Iter [197/501] Loss/word = 1.449312933205348
+Iter [246/501] Loss/word = 1.4464354132249104
+Iter [295/501] Loss/word = 1.4492248050237106
+Iter [344/501] Loss/word = 1.4517582984164703
+Iter [393/501] Loss/word = 1.4528305573014508
+Iter [442/501] Loss/word = 1.4558270827138047
+Iter [491/501] Loss/word = 1.4571050388507105
+Epoch 51 out of 100. Train Loss: 1.4567788405094795, Val Loss: 1.6122736440790997, Accuracy: 0.25340995638025343
+Hereaha's any beer cotners? An unignate's competition
+
+If you see the man im not go her end any devels from swords of phone two prohy.
+
+The Fenis basicans wait a gay best tod of my priest poose... Crexitions
+
+Iter [1/501] Loss/word = 1.528673768043518
+Iter [50/501] Loss/word = 1.4381737303733826
+Iter [99/501] Loss/word = 1.452186553165166
+Iter [148/501] Loss/word = 1.4475401970180306
+Iter [197/501] Loss/word = 1.4475193780085762
+Iter [246/501] Loss/word = 1.4452347697281256
+Iter [295/501] Loss/word = 1.4478514020725832
+Iter [344/501] Loss/word = 1.4498585611581802
+Iter [393/501] Loss/word = 1.4507101922848147
+Iter [442/501] Loss/word = 1.453574755073133
+Iter [491/501] Loss/word = 1.4547543761200914
+Epoch 52 out of 100. Train Loss: 1.4546459622963699, Val Loss: 1.6121893638854736, Accuracy: 0.2532467532467532
+Iter [1/501] Loss/word = 1.5092684030532837
+Iter [50/501] Loss/word = 1.4390261721611024
+Iter [99/501] Loss/word = 1.4507022289314655
+Iter [148/501] Loss/word = 1.445774891891995
+Iter [197/501] Loss/word = 1.4451095767432662
+Iter [246/501] Loss/word = 1.442931031308523
+Iter [295/501] Loss/word = 1.4447269746812723
+Iter [344/501] Loss/word = 1.4476549715496774
+Iter [393/501] Loss/word = 1.448859016403897
+Iter [442/501] Loss/word = 1.4511693821233862
+Iter [491/501] Loss/word = 1.4524054930312085
+Epoch 53 out of 100. Train Loss: 1.452197851178175, Val Loss: 1.614582291194847, Accuracy: 0.2536077783602536
+Shanking more pace is ir a Concates I don't know who I first 50 dollars. There is Loctory remotes for say, "But!"
+
+NIVE ME: ... and my heilly have a sleeping sewflast just since. M. Walks because I spent halffuspy my pants doesn't be attacks days!
+
+After two farmen's last night "Getting maccood*" "It said, "Knoescine: what his your haul?" veget your party: I'm guilty monghono...
+
+Iter [1/501] Loss/word = 1.5268077850341797
+Iter [50/501] Loss/word = 1.4383149194717406
+Iter [99/501] Loss/word = 1.4495974417888757
+Iter [148/501] Loss/word = 1.443684211453876
+Iter [197/501] Loss/word = 1.4438139587489482
+Iter [246/501] Loss/word = 1.4408877710016763
+Iter [295/501] Loss/word = 1.4427358340408842
+Iter [344/501] Loss/word = 1.4459261797195258
+Iter [393/501] Loss/word = 1.4470464115531088
+Iter [442/501] Loss/word = 1.4499385386570547
+Iter [491/501] Loss/word = 1.4513615760686684
+Epoch 54 out of 100. Train Loss: 1.4512940721359557, Val Loss: 1.6131907752701096, Accuracy: 0.2524950297227525
+Iter [1/501] Loss/word = 1.488815426826477
+Iter [50/501] Loss/word = 1.4324165797233581
+Iter [99/501] Loss/word = 1.4460095684937757
+Iter [148/501] Loss/word = 1.4414477243616775
+Iter [197/501] Loss/word = 1.4418632409294245
+Iter [246/501] Loss/word = 1.4395574064758736
+Iter [295/501] Loss/word = 1.4425527976731123
+Iter [344/501] Loss/word = 1.4452723108751828
+Iter [393/501] Loss/word = 1.4466821652938997
+Iter [442/501] Loss/word = 1.4497601228062384
+Iter [491/501] Loss/word = 1.4506209275387456
+Epoch 55 out of 100. Train Loss: 1.4502703507027463, Val Loss: 1.6125205804060747, Accuracy: 0.25278187159375276
+What should past a woman is punny and the day? Because they workuo.
+
+[Mall, down a gi-spot another for me a girlfriend !*except in the day about her puppine, the ornage... And that "Awahah, what is the floats? My new tip, he don't have a comeballwing.
+
+What do you call an apple the others have birged for boy reas but she or a hole? Pul.
+
+Iter [1/501] Loss/word = 1.5142937898635864
+Iter [50/501] Loss/word = 1.4371916842460633
+Iter [99/501] Loss/word = 1.447516806197889
+Iter [148/501] Loss/word = 1.442215052005407
+Iter [197/501] Loss/word = 1.4417512380532203
+Iter [246/501] Loss/word = 1.4391523745001815
+Iter [295/501] Loss/word = 1.4413431515127926
+Iter [344/501] Loss/word = 1.4437186128871387
+Iter [393/501] Loss/word = 1.4451585019211126
+Iter [442/501] Loss/word = 1.4481981944174789
+Iter [491/501] Loss/word = 1.4488024704325224
+Epoch 56 out of 100. Train Loss: 1.4486464363134313, Val Loss: 1.6119631045348162, Accuracy: 0.2528362726382528
+Iter [1/501] Loss/word = 1.502816915512085
+Iter [50/501] Loss/word = 1.4326306557655335
+Iter [99/501] Loss/word = 1.4451296666655877
+Iter [148/501] Loss/word = 1.4394698642395638
+Iter [197/501] Loss/word = 1.4386391137457135
+Iter [246/501] Loss/word = 1.4365779907722784
+Iter [295/501] Loss/word = 1.4391080674478562
+Iter [344/501] Loss/word = 1.4418635541616485
+Iter [393/501] Loss/word = 1.4432034028395442
+Iter [442/501] Loss/word = 1.4462934824136586
+Iter [491/501] Loss/word = 1.4467121258286983
+Epoch 57 out of 100. Train Loss: 1.4465954804610826, Val Loss: 1.612620423902403, Accuracy: 0.25324180769725324
+Hall's pilest to patter if you think that inviteesally go having a like a lot of guy in a bumb in a 36.
+
+Time to this looking and a single in love brigges procestion is a flu and I thoughted his = single doblice six lenful you.
+
+I got in not mouse don't know ohy upsome news, out of someone your gets a Mexican Wet's improved a man walking with.
+
+Iter [1/501] Loss/word = 1.506107211112976
+Iter [50/501] Loss/word = 1.4271773719787597
+Iter [99/501] Loss/word = 1.4412564039230347
+Iter [148/501] Loss/word = 1.437977769890347
+Iter [197/501] Loss/word = 1.4387387944962167
+Iter [246/501] Loss/word = 1.4347875476852665
+Iter [295/501] Loss/word = 1.43683087906595
+Iter [344/501] Loss/word = 1.439535107030425
+Iter [393/501] Loss/word = 1.4407630652265087
+Iter [442/501] Loss/word = 1.4435902771906615
+Iter [491/501] Loss/word = 1.444439523331745
+Epoch 58 out of 100. Train Loss: 1.444223621053372, Val Loss: 1.6150359264858714, Accuracy: 0.25355337731575356
+Iter [1/501] Loss/word = 1.4897738695144653
+Iter [50/501] Loss/word = 1.4272489428520203
+Iter [99/501] Loss/word = 1.4404931851107665
+Iter [148/501] Loss/word = 1.4358426952684247
+Iter [197/501] Loss/word = 1.4354438630457458
+Iter [246/501] Loss/word = 1.4331248460746393
+Iter [295/501] Loss/word = 1.4359241853326055
+Iter [344/501] Loss/word = 1.4383596015530964
+Iter [393/501] Loss/word = 1.4397724900233533
+Iter [442/501] Loss/word = 1.4426082413121046
+Iter [491/501] Loss/word = 1.4438196083193156
+Epoch 59 out of 100. Train Loss: 1.443492469316471, Val Loss: 1.6150846935056902, Accuracy: 0.252989584672753
+What's the poble with a? Polide wants the palm? That's time and very gut at the bull.
+
+What's the man communes a very sliganial grandwile for Americans, and 10 feet is it? Clease.
+
+I'm resalmed a sex is now I know with scut... "Gay don't even do you know" than you talk to the face of cheese gave nice vide?" I been a real kids don't pay $500,000010 a fire.
+
+Iter [1/501] Loss/word = 1.488632082939148
+Iter [50/501] Loss/word = 1.4275445461273193
+Iter [99/501] Loss/word = 1.4412888457076718
+Iter [148/501] Loss/word = 1.4378795180771802
+Iter [197/501] Loss/word = 1.4372452140459555
+Iter [246/501] Loss/word = 1.4352433647566694
+Iter [295/501] Loss/word = 1.4369027489322728
+Iter [344/501] Loss/word = 1.4396269917488098
+Iter [393/501] Loss/word = 1.4405719469521792
+Iter [442/501] Loss/word = 1.443233844651356
+Iter [491/501] Loss/word = 1.4440056233687701
+Epoch 60 out of 100. Train Loss: 1.4438356452597354, Val Loss: 1.6150078828280028, Accuracy: 0.25325169879625326
+Iter [1/501] Loss/word = 1.4981653690338135
+Iter [50/501] Loss/word = 1.4261222505569457
+Iter [99/501] Loss/word = 1.4366192480530402
+Iter [148/501] Loss/word = 1.4335558124490686
+Iter [197/501] Loss/word = 1.4330935708157302
+Iter [246/501] Loss/word = 1.4307868359534721
+Iter [295/501] Loss/word = 1.4331553927922653
+Iter [344/501] Loss/word = 1.435910879872566
+Iter [393/501] Loss/word = 1.4369593710086423
+Iter [442/501] Loss/word = 1.4399840068493495
+Iter [491/501] Loss/word = 1.4410989762809272
+Epoch 61 out of 100. Train Loss: 1.4407324864716824, Val Loss: 1.6138025593686176, Accuracy: 0.25345446632575347
+What kind of myself coush? A Clock is like "Givilate, srapped, [at my guy who plonamed me," Me: -Bo that I vissing
+
+If you are going to me up to go stickpair and frimed by telling on the sent in the tristic agnirm, they have to stop the floor is his oh ends, seme high?
+
+A Sandler Would herd and shoves his hands on yactory. I gue.
+
+Iter [1/501] Loss/word = 1.485980749130249
+Iter [50/501] Loss/word = 1.4235694360733033
+Iter [99/501] Loss/word = 1.4328849857503718
+Iter [148/501] Loss/word = 1.427765826115737
+Iter [197/501] Loss/word = 1.4284508500607487
+Iter [246/501] Loss/word = 1.427044542339759
+Iter [295/501] Loss/word = 1.4304485502889601
+Iter [344/501] Loss/word = 1.4338993561822315
+Iter [393/501] Loss/word = 1.4353721684778615
+Iter [442/501] Loss/word = 1.438589720704437
+Iter [491/501] Loss/word = 1.439405126144347
+Epoch 62 out of 100. Train Loss: 1.4392458369394023, Val Loss: 1.61509708317367, Accuracy: 0.2527769260442528
+Iter [1/501] Loss/word = 1.4773050546646118
+Iter [50/501] Loss/word = 1.425035605430603
+Iter [99/501] Loss/word = 1.4385211190792044
+Iter [148/501] Loss/word = 1.431220835125124
+Iter [197/501] Loss/word = 1.431194804646642
+Iter [246/501] Loss/word = 1.4283865481857363
+Iter [295/501] Loss/word = 1.4311643410537203
+Iter [344/501] Loss/word = 1.4336466466964677
+Iter [393/501] Loss/word = 1.4355870188040891
+Iter [442/501] Loss/word = 1.4386069243310264
+Iter [491/501] Loss/word = 1.4392889490438334
+Epoch 63 out of 100. Train Loss: 1.4389856739672358, Val Loss: 1.616849711605838, Accuracy: 0.25284121818775285
+I guess, I do like I'm so I am on any sancamone in cameram dunb at the expartly at the resurane... I know how to be. Ove you realize the exuselatle joke
+
+Life who squild, I subled a Gurriage from a plate of the exists how we don't turned I did i almost jugs to shoot.
+
+One are too many phone is like? "So, I deneft "You chird hualeyo"
+
+Iter [1/501] Loss/word = 1.4767059087753296
+Iter [50/501] Loss/word = 1.4235632777214051
+Iter [99/501] Loss/word = 1.4351514541741572
+Iter [148/501] Loss/word = 1.428763883339392
+Iter [197/501] Loss/word = 1.428684577118927
+Iter [246/501] Loss/word = 1.426628792189001
+Iter [295/501] Loss/word = 1.429370861538386
+Iter [344/501] Loss/word = 1.432093324356301
+Iter [393/501] Loss/word = 1.433725901839084
+Iter [442/501] Loss/word = 1.4368798816365893
+Iter [491/501] Loss/word = 1.4374625253094675
+Epoch 64 out of 100. Train Loss: 1.437160069238164, Val Loss: 1.612968182051694, Accuracy: 0.25366712495425364
+Iter [1/501] Loss/word = 1.5032609701156616
+Iter [50/501] Loss/word = 1.421706395149231
+Iter [99/501] Loss/word = 1.4346452674480399
+Iter [148/501] Loss/word = 1.4302624890933167
+Iter [197/501] Loss/word = 1.4305127689681076
+Iter [246/501] Loss/word = 1.4268931727099226
+Iter [295/501] Loss/word = 1.429056579379712
+Iter [344/501] Loss/word = 1.4316796535669372
+Iter [393/501] Loss/word = 1.4330815680457738
+Iter [442/501] Loss/word = 1.436014641194322
+Iter [491/501] Loss/word = 1.4370664304725507
+Epoch 65 out of 100. Train Loss: 1.4369134598387454, Val Loss: 1.6169092322920229, Accuracy: 0.2530934412122531
+What do you ate comes syndress? 8: Woman: I had an accident, my favorite called the weds & think writtenless for getting up fion, they just said... ...down the weather at my *FFD)
+
+I love it will let the game Will Fulls of up you spent Only and a girl thus yellow a change to be fall in her pictureen dold it slugp? Okay pook duristy if He How to me spelled out of him his vegal lett
+
+I'm one of town slidvile is over to mused the feyter we Net of a cat's going Ibody those people who came Ouch.
+
+Iter [1/501] Loss/word = 1.4819543361663818
+Iter [50/501] Loss/word = 1.4177414631843568
+Iter [99/501] Loss/word = 1.4275236864282628
+Iter [148/501] Loss/word = 1.4233109024730888
+Iter [197/501] Loss/word = 1.4237467274447988
+Iter [246/501] Loss/word = 1.4221618136739342
+Iter [295/501] Loss/word = 1.4249491243039147
+Iter [344/501] Loss/word = 1.4280229238576667
+Iter [393/501] Loss/word = 1.4289636062908415
+Iter [442/501] Loss/word = 1.4320077149037322
+Iter [491/501] Loss/word = 1.4328914261641181
+Epoch 66 out of 100. Train Loss: 1.4324340637096626, Val Loss: 1.6159511618204527, Accuracy: 0.2530884956627531
+Iter [1/501] Loss/word = 1.523579716682434
+Iter [50/501] Loss/word = 1.4243102741241456
+Iter [99/501] Loss/word = 1.433902095062564
+Iter [148/501] Loss/word = 1.4277042239098936
+Iter [197/501] Loss/word = 1.4269736926567735
+Iter [246/501] Loss/word = 1.4246426772295944
+Iter [295/501] Loss/word = 1.4270932937072496
+Iter [344/501] Loss/word = 1.4300377705069476
+Iter [393/501] Loss/word = 1.4313402867499199
+Iter [442/501] Loss/word = 1.4338569333650408
+Iter [491/501] Loss/word = 1.434877515081961
+Epoch 67 out of 100. Train Loss: 1.4344341489607226, Val Loss: 1.617469588597933, Accuracy: 0.2532071888507532
+[itselatax out." "Id muthers on a date We ghenty out stuck entive yellow my 50,ball. *Shrownher* "My fancy." I love you are they here red and Mes. Well, I know. Long Country.
+
+"Wanna say to the spirect?" "Holy confirston?" "Look."
+
+What see ahe really may colve open that you say? The station in the hands to kreo restaurtuntial.
+
+Iter [1/501] Loss/word = 1.4380967617034912
+Iter [50/501] Loss/word = 1.4160442972183227
+Iter [99/501] Loss/word = 1.4302667090387056
+Iter [148/501] Loss/word = 1.4248146841654907
+Iter [197/501] Loss/word = 1.4249719048514584
+Iter [246/501] Loss/word = 1.42317747924386
+Iter [295/501] Loss/word = 1.4255993843078614
+Iter [344/501] Loss/word = 1.4286294728517532
+Iter [393/501] Loss/word = 1.429841272096901
+Iter [442/501] Loss/word = 1.4330055352249835
+Iter [491/501] Loss/word = 1.4339076331579514
+Epoch 68 out of 100. Train Loss: 1.433274487297454, Val Loss: 1.6167049772374995, Accuracy: 0.25322697104875325
+Iter [1/501] Loss/word = 1.4843188524246216
+Iter [50/501] Loss/word = 1.417121822834015
+Iter [99/501] Loss/word = 1.428577386971676
+Iter [148/501] Loss/word = 1.4258137111728255
+Iter [197/501] Loss/word = 1.4252395042913215
+Iter [246/501] Loss/word = 1.4224477705916738
+Iter [295/501] Loss/word = 1.424055682198476
+Iter [344/501] Loss/word = 1.4270049517237864
+Iter [393/501] Loss/word = 1.4285994182712856
+Iter [442/501] Loss/word = 1.4312272880951205
+Iter [491/501] Loss/word = 1.4321699144883941
+Epoch 69 out of 100. Train Loss: 1.4319986275094236, Val Loss: 1.6166032350265778, Accuracy: 0.2531033323112531
+It's my parents are going to even have can screw in the trump pussy hours refurestipate in a neivorita son in vijous lut on A piece of the ba-led in... ...but their knanish, and put loud.
+
+2 babyou a guitars bank into the tips of in comment, the swimmers. So I had not. You just need out of coffee.
+
+I get in fight to have any closer to get have some body's fall people alphable to eat hurts with lape to the kids a halla want to the month
+
+Iter [1/501] Loss/word = 1.4794559478759766
+Iter [50/501] Loss/word = 1.414320888519287
+Iter [99/501] Loss/word = 1.424910231070085
+Iter [148/501] Loss/word = 1.4209514139471828
+Iter [197/501] Loss/word = 1.4211613835417074
+Iter [246/501] Loss/word = 1.418089585575631
+Iter [295/501] Loss/word = 1.4208121485629324
+Iter [344/501] Loss/word = 1.4238990756661394
+Iter [393/501] Loss/word = 1.4252242050098098
+Iter [442/501] Loss/word = 1.4286597832295689
+Iter [491/501] Loss/word = 1.4300206965195914
+Epoch 70 out of 100. Train Loss: 1.4300131597918664, Val Loss: 1.613680897356866, Accuracy: 0.2535138129197535
+Iter [1/501] Loss/word = 1.4900654554367065
+Iter [50/501] Loss/word = 1.4217955136299134
+Iter [99/501] Loss/word = 1.4293711618943648
+Iter [148/501] Loss/word = 1.4255873480358638
+Iter [197/501] Loss/word = 1.4245737022554814
+Iter [246/501] Loss/word = 1.4223710056242904
+Iter [295/501] Loss/word = 1.4239049167956337
+Iter [344/501] Loss/word = 1.42592849253222
+Iter [393/501] Loss/word = 1.4271009356617623
+Iter [442/501] Loss/word = 1.4299574286689585
+Iter [491/501] Loss/word = 1.4309165067439653
+Epoch 71 out of 100. Train Loss: 1.4305267718261825, Val Loss: 1.6144960681041638, Accuracy: 0.2532121344002532
+Sometimes a club last night. You can't use for underhall
+
+Efour America Favorite kind of me and she's solid. A falt chicken could wintex in a pilarous.
+
+[Wartndly ant all about all of as a man eath nosting you've ever heard?* The poos* piss that you can she'll snight? Kooutime are fish me, butt!! You undersfitzer with a kid? [outsercies to break out of 
+
+Iter [1/501] Loss/word = 1.4813973903656006
+Iter [50/501] Loss/word = 1.4086861681938172
+Iter [99/501] Loss/word = 1.4220260032499679
+Iter [148/501] Loss/word = 1.4190614416792586
+Iter [197/501] Loss/word = 1.419280427361503
+Iter [246/501] Loss/word = 1.4176651312083732
+Iter [295/501] Loss/word = 1.4192946280463268
+Iter [344/501] Loss/word = 1.422351743939311
+Iter [393/501] Loss/word = 1.423887501539468
+Iter [442/501] Loss/word = 1.4266449900773854
+Iter [491/501] Loss/word = 1.427682310403486
+Epoch 72 out of 100. Train Loss: 1.4272657694692858, Val Loss: 1.6158907031203127, Accuracy: 0.25314289670725315
+Iter [1/501] Loss/word = 1.516125202178955
+Iter [50/501] Loss/word = 1.4122842407226563
+Iter [99/501] Loss/word = 1.4232549402448866
+Iter [148/501] Loss/word = 1.4177169743421916
+Iter [197/501] Loss/word = 1.4176115656867245
+Iter [246/501] Loss/word = 1.4163938998206844
+Iter [295/501] Loss/word = 1.4189005568876105
+Iter [344/501] Loss/word = 1.4220095910998278
+Iter [393/501] Loss/word = 1.4243932947251026
+Iter [442/501] Loss/word = 1.4268437138509966
+Iter [491/501] Loss/word = 1.4282681286456387
+Epoch 73 out of 100. Train Loss: 1.4280993313846473, Val Loss: 1.6161866151131354, Accuracy: 0.253988585671754
+What's agurenther's readnzer are two works's doit on a ground laid? So skin I'm really cat
+
+What do you call it* the lawyer talk roam? I dont always start this is-up
+
+How do you expensive Elven a lot e=-Parit? Justing a slisma.
+
+Iter [1/501] Loss/word = 1.4721494913101196
+Iter [50/501] Loss/word = 1.4099036979675292
+Iter [99/501] Loss/word = 1.4213260352009474
+Iter [148/501] Loss/word = 1.4168006471685461
+Iter [197/501] Loss/word = 1.4166012742192613
+Iter [246/501] Loss/word = 1.4139179587364197
+Iter [295/501] Loss/word = 1.4168871641159058
+Iter [344/501] Loss/word = 1.420037558258966
+Iter [393/501] Loss/word = 1.4211240803619074
+Iter [442/501] Loss/word = 1.4238320211479567
+Iter [491/501] Loss/word = 1.4247841550959104
+Epoch 74 out of 100. Train Loss: 1.4247012187144952, Val Loss: 1.616970251966547, Accuracy: 0.2537017438007537
+Iter [1/501] Loss/word = 1.4807188510894775
+Iter [50/501] Loss/word = 1.4091792488098145
+Iter [99/501] Loss/word = 1.4198927819126783
+Iter [148/501] Loss/word = 1.4163526787951186
+Iter [197/501] Loss/word = 1.4159056456561017
+Iter [246/501] Loss/word = 1.4137437362981036
+Iter [295/501] Loss/word = 1.4154180708578077
+Iter [344/501] Loss/word = 1.4182440340518951
+Iter [393/501] Loss/word = 1.4200688476174235
+Iter [442/501] Loss/word = 1.422982582139753
+Iter [491/501] Loss/word = 1.4244887098032686
+Epoch 75 out of 100. Train Loss: 1.424216333739534, Val Loss: 1.6161922933933857, Accuracy: 0.2534050108307534
+Sometimes for not say it's conth is where more angly don't purk for Oldentart miss-on.
+
+What did the house will go to the day? You guy want
+
+If you spell I was know what you're all guy when you've Night Chick at him.
+
+Iter [1/501] Loss/word = 1.4789959192276
+Iter [50/501] Loss/word = 1.4086692643165588
+Iter [99/501] Loss/word = 1.4186676608191595
+Iter [148/501] Loss/word = 1.4132134688867104
+Iter [197/501] Loss/word = 1.4137205920243627
+Iter [246/501] Loss/word = 1.4115755960224121
+Iter [295/501] Loss/word = 1.4143696308135987
+Iter [344/501] Loss/word = 1.4178074639897014
+Iter [393/501] Loss/word = 1.4195778937133516
+Iter [442/501] Loss/word = 1.4228944190487063
+Iter [491/501] Loss/word = 1.4237284599642162
+Epoch 76 out of 100. Train Loss: 1.4234542160215016, Val Loss: 1.6162224068984643, Accuracy: 0.25292529252925294
+Iter [1/501] Loss/word = 1.497290015220642
+Iter [50/501] Loss/word = 1.4085364079475402
+Iter [99/501] Loss/word = 1.4209247165256076
+Iter [148/501] Loss/word = 1.415246386785765
+Iter [197/501] Loss/word = 1.4155338058616909
+Iter [246/501] Loss/word = 1.412894691878218
+Iter [295/501] Loss/word = 1.4151168152437372
+Iter [344/501] Loss/word = 1.4181448685568432
+Iter [393/501] Loss/word = 1.4195764707851652
+Iter [442/501] Loss/word = 1.422127584796146
+Iter [491/501] Loss/word = 1.4230521375924168
+Epoch 77 out of 100. Train Loss: 1.422844663113653, Val Loss: 1.6170342870049186, Accuracy: 0.25341984747925345
+For I send a wolage of my friends called that you bit a corn American one and a bloke into a sick about difference between happence because it's a dianeagults and asks funniera.
+
+What did how muny hooking Girlfriend confriend? Ploping an osquncing on the single and you will thought the dark will goin!
+
+Good foor something...to outisional difference between a slank at the trug summers like a wall.
+
+Iter [1/501] Loss/word = 1.465886116027832
+Iter [50/501] Loss/word = 1.4040534710884094
+Iter [99/501] Loss/word = 1.4193430669379956
+Iter [148/501] Loss/word = 1.414803221419051
+Iter [197/501] Loss/word = 1.4153806158733853
+Iter [246/501] Loss/word = 1.4130289603055008
+Iter [295/501] Loss/word = 1.4150806330018124
+Iter [344/501] Loss/word = 1.4181835207828255
+Iter [393/501] Loss/word = 1.4194784167462027
+Iter [442/501] Loss/word = 1.4229930855030388
+Iter [491/501] Loss/word = 1.424022021944314
+Epoch 78 out of 100. Train Loss: 1.4237145534056628, Val Loss: 1.6150769102466214, Accuracy: 0.2532912631922533
+Iter [1/501] Loss/word = 1.456008791923523
+Iter [50/501] Loss/word = 1.409072813987732
+Iter [99/501] Loss/word = 1.4195715658592456
+Iter [148/501] Loss/word = 1.415277841928843
+Iter [197/501] Loss/word = 1.4156832858390616
+Iter [246/501] Loss/word = 1.4135235063428802
+Iter [295/501] Loss/word = 1.416601201639337
+Iter [344/501] Loss/word = 1.4196403314207875
+Iter [393/501] Loss/word = 1.4210292355704854
+Iter [442/501] Loss/word = 1.423565797676328
+Iter [491/501] Loss/word = 1.4246028397088137
+Epoch 79 out of 100. Train Loss: 1.4242131656515384, Val Loss: 1.6171522073216966, Accuracy: 0.25295002027675295
+How powlen commaring me with Fridgick? Kike: Guess wh, seven Walk." -Pelped these party
+
+What do you call it as alphanter who dive vegetably amphiest? Because they have a panforment and says
+
+I dont only great wrinkle a singest great up and ivery getting down out....the textion and says, "Why was you don't wait? Tell his coffin one with the black.
+
+Iter [1/501] Loss/word = 1.4814866781234741
+Iter [50/501] Loss/word = 1.4042391324043273
+Iter [99/501] Loss/word = 1.4181567286000107
+Iter [148/501] Loss/word = 1.4140383866993156
+Iter [197/501] Loss/word = 1.4141937094896577
+Iter [246/501] Loss/word = 1.412086597303065
+Iter [295/501] Loss/word = 1.4139212547722508
+Iter [344/501] Loss/word = 1.416655563684397
+Iter [393/501] Loss/word = 1.4175633113196182
+Iter [442/501] Loss/word = 1.4206866541059848
+Iter [491/501] Loss/word = 1.4215063252419902
+Epoch 80 out of 100. Train Loss: 1.421239619840405, Val Loss: 1.6166804055948476, Accuracy: 0.2535830506127536
+Iter [1/501] Loss/word = 1.4680646657943726
+Iter [50/501] Loss/word = 1.4082553386688232
+Iter [99/501] Loss/word = 1.4177815817823314
+Iter [148/501] Loss/word = 1.4137791765702736
+Iter [197/501] Loss/word = 1.411627022748066
+Iter [246/501] Loss/word = 1.4088295203883474
+Iter [295/501] Loss/word = 1.4108069993681827
+Iter [344/501] Loss/word = 1.4137933327015055
+Iter [393/501] Loss/word = 1.4155008911176492
+Iter [442/501] Loss/word = 1.4189239683733805
+Iter [491/501] Loss/word = 1.4199597298977573
+Epoch 81 out of 100. Train Loss: 1.4194447941884785, Val Loss: 1.6183104391817327, Accuracy: 0.2530538768162531
+How do you 3xmet at being sensent for bortumas? You both can be not alcohold on this
+
+Last never get a woman ! she motce favorite while I was out to the other girl.
+
+I'll gever Like a sectory seares ok The Tree command if the plant mouth.
+
+Iter [1/501] Loss/word = 1.4471431970596313
+Iter [50/501] Loss/word = 1.3987240171432496
+Iter [99/501] Loss/word = 1.412379547803089
+Iter [148/501] Loss/word = 1.406902869005461
+Iter [197/501] Loss/word = 1.4086942491192502
+Iter [246/501] Loss/word = 1.406788851187481
+Iter [295/501] Loss/word = 1.4094156285463753
+Iter [344/501] Loss/word = 1.4124051010192826
+Iter [393/501] Loss/word = 1.4142151461302779
+Iter [442/501] Loss/word = 1.417693632760199
+Iter [491/501] Loss/word = 1.4184896419101722
+Epoch 82 out of 100. Train Loss: 1.4182714694988228, Val Loss: 1.6180540697200672, Accuracy: 0.2532912631922533
+Iter [1/501] Loss/word = 1.4547629356384277
+Iter [50/501] Loss/word = 1.4052311515808105
+Iter [99/501] Loss/word = 1.415205930218552
+Iter [148/501] Loss/word = 1.4095699473007306
+Iter [197/501] Loss/word = 1.4102290094201335
+Iter [246/501] Loss/word = 1.4080912432050317
+Iter [295/501] Loss/word = 1.4100818334999732
+Iter [344/501] Loss/word = 1.412667347594749
+Iter [393/501] Loss/word = 1.4137808627451345
+Iter [442/501] Loss/word = 1.4168069179241474
+Iter [491/501] Loss/word = 1.4182439894394574
+Epoch 83 out of 100. Train Loss: 1.4178403852704518, Val Loss: 1.615522186477463, Accuracy: 0.25294012917775294
+What happens when you care a pair of the people?
+
+Try and feen last name for a rock. Why do you call a colonom? The name how many godnamparent and texting a white person abeat
+
+A sphard walk into a black. I gristers or a 0% Ba-Bear used. Now if a con know is the stubid every only release they ask I like the deach, he was the sign- languages at all there. You rencime a really m
+
+Iter [1/501] Loss/word = 1.4775793552398682
+Iter [50/501] Loss/word = 1.4034664392471314
+Iter [99/501] Loss/word = 1.4159431373230134
+Iter [148/501] Loss/word = 1.4124151790464246
+Iter [197/501] Loss/word = 1.4114547417248566
+Iter [246/501] Loss/word = 1.4085439603503158
+Iter [295/501] Loss/word = 1.4106060609979145
+Iter [344/501] Loss/word = 1.4135755411414213
+Iter [393/501] Loss/word = 1.4149754101993472
+Iter [442/501] Loss/word = 1.4176002775921541
+Iter [491/501] Loss/word = 1.4190028937431072
+Epoch 84 out of 100. Train Loss: 1.4189185652428282, Val Loss: 1.618678659885437, Accuracy: 0.2533159909397533
+Iter [1/501] Loss/word = 1.5006569623947144
+Iter [50/501] Loss/word = 1.404491868019104
+Iter [99/501] Loss/word = 1.4125991722550055
+Iter [148/501] Loss/word = 1.4070211479792725
+Iter [197/501] Loss/word = 1.4086933432496744
+Iter [246/501] Loss/word = 1.4064032493568048
+Iter [295/501] Loss/word = 1.4089605836545007
+Iter [344/501] Loss/word = 1.4119864757670912
+Iter [393/501] Loss/word = 1.4128460268331242
+Iter [442/501] Loss/word = 1.4155447216055512
+Iter [491/501] Loss/word = 1.4162984591151935
+Epoch 85 out of 100. Train Loss: 1.4159791596873317, Val Loss: 1.618797768960585, Accuracy: 0.2532319165982532
+Why is the bo seat mother staw at all the other tat? He's in a vema phone in, they've just give it doctorm.
+
+Becuman with wo call Mistake Course found out and a restauraging and proveted to stunorous... Of stole the posstick scyst.
+
+Who the Polar permands checking box talkness so it could have dog? It's never down through it for how the countor thanks him
+
+Iter [1/501] Loss/word = 1.5044032335281372
+Iter [50/501] Loss/word = 1.4021232509613037
+Iter [99/501] Loss/word = 1.4113805354243578
+Iter [148/501] Loss/word = 1.406286966156315
+Iter [197/501] Loss/word = 1.407550903141196
+Iter [246/501] Loss/word = 1.4054441495639522
+Iter [295/501] Loss/word = 1.40788994522418
+Iter [344/501] Loss/word = 1.411733979749125
+Iter [393/501] Loss/word = 1.4135043317731706
+Iter [442/501] Loss/word = 1.4163213409989128
+Iter [491/501] Loss/word = 1.4171698319207868
+Epoch 86 out of 100. Train Loss: 1.41659503984832, Val Loss: 1.6197681247175753, Accuracy: 0.25356821396425355
+Iter [1/501] Loss/word = 1.4661667346954346
+Iter [50/501] Loss/word = 1.4022624969482422
+Iter [99/501] Loss/word = 1.4146312968899506
+Iter [148/501] Loss/word = 1.4078803537665188
+Iter [197/501] Loss/word = 1.4075577138039062
+Iter [246/501] Loss/word = 1.4043583312654884
+Iter [295/501] Loss/word = 1.4067256971941156
+Iter [344/501] Loss/word = 1.4093844835148301
+Iter [393/501] Loss/word = 1.4107368950928745
+Iter [442/501] Loss/word = 1.4137385768048905
+Iter [491/501] Loss/word = 1.4146132930475923
+Epoch 87 out of 100. Train Loss: 1.414455014431548, Val Loss: 1.6184338904046394, Accuracy: 0.25296485692525295
+Oscar 10 pizza wish not think you're around a chemity downto cardo foot a dancing for a Helacon a lot to have no replie skeletons.
+
+How just theyer had the road down it too a counton? Skin.
+
+Maina  anchiver here to make long of men's faity. I made commets. Adwincel left! Wondere is side a friend? a new flower exactly me behind furnet... and I fit his restaurant at all awarton while them to 
+
+Iter [1/501] Loss/word = 1.4800491333007812
+Iter [50/501] Loss/word = 1.397000539302826
+Iter [99/501] Loss/word = 1.4087661709448305
+Iter [148/501] Loss/word = 1.405642876753936
+Iter [197/501] Loss/word = 1.4059117627022835
+Iter [246/501] Loss/word = 1.4034172630891568
+Iter [295/501] Loss/word = 1.4052427441386852
+Iter [344/501] Loss/word = 1.4081362752720368
+Iter [393/501] Loss/word = 1.4093526186227192
+Iter [442/501] Loss/word = 1.4132247548297519
+Iter [491/501] Loss/word = 1.414335245755928
+Epoch 88 out of 100. Train Loss: 1.4141824392977351, Val Loss: 1.6184633842238656, Accuracy: 0.2528857281332529
+Iter [1/501] Loss/word = 1.4777507781982422
+Iter [50/501] Loss/word = 1.3951817631721497
+Iter [99/501] Loss/word = 1.4089393158151646
+Iter [148/501] Loss/word = 1.4033702088368905
+Iter [197/501] Loss/word = 1.4040164185054411
+Iter [246/501] Loss/word = 1.4015203074711124
+Iter [295/501] Loss/word = 1.4047779042842024
+Iter [344/501] Loss/word = 1.407608190941256
+Iter [393/501] Loss/word = 1.408639758901135
+Iter [442/501] Loss/word = 1.4115530829623812
+Iter [491/501] Loss/word = 1.412536026504035
+Epoch 89 out of 100. Train Loss: 1.4126116014764218, Val Loss: 1.6195059556822915, Accuracy: 0.25286594593525286
+Have you help getting on an alure? Because it is going not him out.
+
+What Doe am Shipkt long baranza good cow ? To Smargly I dimn't vairet tip of painting doesn't let you've eat anyone know 680,00 phone go doing out without it.
+
+I hose a insuilation of my aptland. I can't get her they are testirs rake fugffer while.
+
+Iter [1/501] Loss/word = 1.4643582105636597
+Iter [50/501] Loss/word = 1.4030872917175292
+Iter [99/501] Loss/word = 1.4114658663971256
+Iter [148/501] Loss/word = 1.4064600137439933
+Iter [197/501] Loss/word = 1.4069515472741296
+Iter [246/501] Loss/word = 1.4056121358057347
+Iter [295/501] Loss/word = 1.4071166373915591
+Iter [344/501] Loss/word = 1.409566496347272
+Iter [393/501] Loss/word = 1.4111850740952043
+Iter [442/501] Loss/word = 1.414330966871788
+Iter [491/501] Loss/word = 1.4152578943372986
+Epoch 90 out of 100. Train Loss: 1.4150098405198424, Val Loss: 1.6210523668702665, Accuracy: 0.25273241609875274
+Iter [1/501] Loss/word = 1.4695250988006592
+Iter [50/501] Loss/word = 1.4008832144737244
+Iter [99/501] Loss/word = 1.4090947021137585
+Iter [148/501] Loss/word = 1.4050367740360465
+Iter [197/501] Loss/word = 1.4049337521422334
+Iter [246/501] Loss/word = 1.4014871939411009
+Iter [295/501] Loss/word = 1.4033113225031708
+Iter [344/501] Loss/word = 1.4060141939756483
+Iter [393/501] Loss/word = 1.4080372627151527
+Iter [442/501] Loss/word = 1.4107814339491038
+Iter [491/501] Loss/word = 1.4119645585353409
+Epoch 91 out of 100. Train Loss: 1.411688687677631, Val Loss: 1.6221071055361798, Accuracy: 0.2527175794502527
+I stame. Marry Hitlers, what give a colonosalible say to the barage dy usual? Oh
+
+No will be six sandpaps to someone who is sure it took your wants to help the female. I laughes him all ovingtion... ...As she ownopped with bacus when you could need with the cock on about a recent the
+
+Why did the Wom and Sleeps does it take to brain sevore suppobed my windo? Animal
+
+Iter [1/501] Loss/word = 1.4930917024612427
+Iter [50/501] Loss/word = 1.3997391366958618
+Iter [99/501] Loss/word = 1.411434338550375
+Iter [148/501] Loss/word = 1.4071545987515837
+Iter [197/501] Loss/word = 1.406042362832781
+Iter [246/501] Loss/word = 1.4036975541735084
+Iter [295/501] Loss/word = 1.4049925161620318
+Iter [344/501] Loss/word = 1.4079644610715467
+Iter [393/501] Loss/word = 1.4093836200146275
+Iter [442/501] Loss/word = 1.4125319651888506
+Iter [491/501] Loss/word = 1.4131732319620136
+Epoch 92 out of 100. Train Loss: 1.4126656550371242, Val Loss: 1.6185520664080755, Accuracy: 0.25292529252925294
+Iter [1/501] Loss/word = 1.49154794216156
+Iter [50/501] Loss/word = 1.3967571997642516
+Iter [99/501] Loss/word = 1.4083352703036685
+Iter [148/501] Loss/word = 1.4024611630955257
+Iter [197/501] Loss/word = 1.4027757535731127
+Iter [246/501] Loss/word = 1.400762612742137
+Iter [295/501] Loss/word = 1.4033993248212135
+Iter [344/501] Loss/word = 1.4065258114836936
+Iter [393/501] Loss/word = 1.407906399731721
+Iter [442/501] Loss/word = 1.4103972229482902
+Iter [491/501] Loss/word = 1.4111416548672615
+Epoch 93 out of 100. Train Loss: 1.4107720731737132, Val Loss: 1.62134541772105, Accuracy: 0.25332588203875334
+How do you decent the 30 life and Now 4? That window the way, whigher deely for Trawarted butts i'm got's this grair, it's a middle contolority stole them.
+
+A black mistape. No maybe my assore with a speed me when a man and walks.
+
+Why can't kind of decised a sea? I've been now I puspare.
+
+Iter [1/501] Loss/word = 1.4711734056472778
+Iter [50/501] Loss/word = 1.4029619526863097
+Iter [99/501] Loss/word = 1.4093392124079696
+Iter [148/501] Loss/word = 1.4037967106780491
+Iter [197/501] Loss/word = 1.4028446038967461
+Iter [246/501] Loss/word = 1.4004677771552791
+Iter [295/501] Loss/word = 1.402176834365069
+Iter [344/501] Loss/word = 1.4048475203819053
+Iter [393/501] Loss/word = 1.4061407970108148
+Iter [442/501] Loss/word = 1.408862784976873
+Iter [491/501] Loss/word = 1.4101095561340238
+Epoch 94 out of 100. Train Loss: 1.4096791914361204, Val Loss: 1.619879820070543, Accuracy: 0.253039040167753
+Iter [1/501] Loss/word = 1.4542638063430786
+Iter [50/501] Loss/word = 1.392556004524231
+Iter [99/501] Loss/word = 1.4047003129515985
+Iter [148/501] Loss/word = 1.40063494202253
+Iter [197/501] Loss/word = 1.399380732913913
+Iter [246/501] Loss/word = 1.3977132681908646
+Iter [295/501] Loss/word = 1.4000755427247387
+Iter [344/501] Loss/word = 1.4034290545901587
+Iter [393/501] Loss/word = 1.405471118048554
+Iter [442/501] Loss/word = 1.4080278147939105
+Iter [491/501] Loss/word = 1.4090922665450336
+Epoch 95 out of 100. Train Loss: 1.4089097073692047, Val Loss: 1.6223607475345547, Accuracy: 0.25310827786075313
+Do you call a bruckles will be gravive his ? Gust.
+
+Charst going to buy to know sofgered refore farty about all the Blobi Do you other conver?
+
+Accountifia club bristing, and finally get last wamper of great than Don't you egt, you'll be a Piss... ...exzable more and watch home wait!
+
+Iter [1/501] Loss/word = 1.4822382926940918
+Iter [50/501] Loss/word = 1.3975437450408936
+Iter [99/501] Loss/word = 1.4081469280551178
+Iter [148/501] Loss/word = 1.4029099369371258
+Iter [197/501] Loss/word = 1.4021638928331095
+Iter [246/501] Loss/word = 1.4001584256567605
+Iter [295/501] Loss/word = 1.4014113054437152
+Iter [344/501] Loss/word = 1.4047378277362779
+Iter [393/501] Loss/word = 1.4060590076082535
+Iter [442/501] Loss/word = 1.4086647451733032
+Iter [491/501] Loss/word = 1.4097406903012464
+Epoch 96 out of 100. Train Loss: 1.4094295317303396, Val Loss: 1.622377819352812, Accuracy: 0.2533011542912533
+Iter [1/501] Loss/word = 1.4669270515441895
+Iter [50/501] Loss/word = 1.3901548457145692
+Iter [99/501] Loss/word = 1.4049473025582053
+Iter [148/501] Loss/word = 1.400352082542471
+Iter [197/501] Loss/word = 1.4023057506774284
+Iter [246/501] Loss/word = 1.3989869588758888
+Iter [295/501] Loss/word = 1.4007904048693383
+Iter [344/501] Loss/word = 1.4038516033527464
+Iter [393/501] Loss/word = 1.405155031432329
+Iter [442/501] Loss/word = 1.4077058830951674
+Iter [491/501] Loss/word = 1.408869239074878
+Epoch 97 out of 100. Train Loss: 1.4085612023424008, Val Loss: 1.6199973715649738, Accuracy: 0.25325169879625326
+Beren meaning grassture land tattions around all of my favorite zoo six off "chamburges to had a better way eggjow." "warm, and please brothy girl craining; "fat" of are say on the boor and a man with o
+
+Today I took your next today it understand on the partic of Pathlex
+
+I thought one wrong maybe a reways don't make a fat balls. Sirt-Strapped Nerguigh night "Cellarm, you reply "Women, i'm of my by an homour server you, you're a Bus a part for a phone.
+
+Iter [1/501] Loss/word = 1.4684966802597046
+Iter [50/501] Loss/word = 1.3934301471710204
+Iter [99/501] Loss/word = 1.4058380403904
+Iter [148/501] Loss/word = 1.3994035213380247
+Iter [197/501] Loss/word = 1.4004618661657808
+Iter [246/501] Loss/word = 1.397970543159702
+Iter [295/501] Loss/word = 1.3997400348469362
+Iter [344/501] Loss/word = 1.4037327385225962
+Iter [393/501] Loss/word = 1.4047124595132492
+Iter [442/501] Loss/word = 1.4072707308902999
+Iter [491/501] Loss/word = 1.408242304796114
+Epoch 98 out of 100. Train Loss: 1.4080729196647446, Val Loss: 1.6213184305123396, Accuracy: 0.2535830506127536
+Iter [1/501] Loss/word = 1.4936679601669312
+Iter [50/501] Loss/word = 1.395613911151886
+Iter [99/501] Loss/word = 1.4052575152329725
+Iter [148/501] Loss/word = 1.4003354560684513
+Iter [197/501] Loss/word = 1.4004261300043406
+Iter [246/501] Loss/word = 1.3983078763736942
+Iter [295/501] Loss/word = 1.3997797157804845
+Iter [344/501] Loss/word = 1.4027272930672003
+Iter [393/501] Loss/word = 1.403649323769198
+Iter [442/501] Loss/word = 1.4064862196801475
+Iter [491/501] Loss/word = 1.4072686052613734
+Epoch 99 out of 100. Train Loss: 1.4069452603420098, Val Loss: 1.6202102703052563, Accuracy: 0.2531874066527532
+What's the difference betwen HoV is holding an adventickes a flight that "Thanksgiving dustured!
+
+Cimer has a party lost and stuck a new year's use setting out of the T&D.... For two this ares are eating
+
+Tod yellen collega talk mesairing meast Everyway so foot, even killer are the slight to party and guess now.
+
+------------Done Training-------------
+*Knock knock* Ok you" movin with a lightbulb put it outtiles at gaying my dog. But on his dicks! Just were at u sently confuss with that "shit."
+
+What did Our Wwo always way this issues of standure? A Teque-LOON
+
+Why did the drama pray with be said? The women triff or time is gay for Puttle
+
+I heard 1: I was a batman with a partmentalible and climbing on high British past/uming with must runch.
+
